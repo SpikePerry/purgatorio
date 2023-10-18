@@ -1356,3 +1356,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.18-11.25.22:271][  1]LogAssetRegistry: Asset discovery search completed in 10.9103 seconds
 [2023.10.18-11.25.22:277][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
 [2023.10.18-11.27.14:317][392]LogDerivedDataCache: C:/Users/jhall/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.085 and deleted 0 files with total size 0 MiB. Scanned 2585 files in 2570 folders with total size 97 MiB.
+[2023.10.18-11.28.55:977][105]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.10.18-11.28.55:982][105]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.18-11.28.58:312][337]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.18-11.28.58:314][337]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.18-11.28.58:314][337]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.18-11.29.01:639][337]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.10.18-11.29.01:675][337]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.10.18-11.29.01:680][337]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.10.18-11.29.01:691][338]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.10.18-11.29.04:516][635]LogContentBrowser: Attempting asset rename: NewBlueprint -> TestPawn
+[2023.10.18-11.29.04:537][635]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.10.18-11.29.06:705][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.18-11.29.06:733][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestPawn" FILE="../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/TestPawn.uasset" SILENT=true
+[2023.10.18-11.29.06:739][885]LogSavePackage: Moving output files for package: /Game/TestPawn
+[2023.10.18-11.29.06:739][885]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/TestPawnF9AFD51E4551CAB795C1959675A5870C.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/TestPawn.uasset'
+[2023.10.18-11.29.06:746][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 3.45 sec)
+[2023.10.18-11.29.06:749][885]AssetCheck: New page: Asset Save: TestPawn
+[2023.10.18-11.29.06:749][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TestPawn.TestPawn

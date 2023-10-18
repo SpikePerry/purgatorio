@@ -1355,3 +1355,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.18-11.25.22:194][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.10.18-11.25.22:271][  1]LogAssetRegistry: Asset discovery search completed in 10.9103 seconds
 [2023.10.18-11.25.22:277][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2023.10.18-11.27.14:317][392]LogDerivedDataCache: C:/Users/jhall/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.085 and deleted 0 files with total size 0 MiB. Scanned 2585 files in 2570 folders with total size 97 MiB.

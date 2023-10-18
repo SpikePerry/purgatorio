@@ -1097,3 +1097,9 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.10.18-11.40.42:768][158]LogSlate: Window 'Project Settings' being destroyed
 [2023.10.18-11.40.42:772][158]LogSlate: Window 'Project Settings' being destroyed
 [2023.10.18-11.40.44:734][253]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.18-11.41.20:352][974]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.18-11.41.20:354][974]LogToolMenus: Warning: Menu item not found: 'OpenMarketplace' for insert: 'ContentBrowser'
+[2023.10.18-11.41.22:599][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2023.10.18-11.41.22:599][229]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2023.10.18-11.41.22:604][229]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389D0B301_1928520791
+[2023.10.18-11.41.22:607][229]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389D0B301_1928520791

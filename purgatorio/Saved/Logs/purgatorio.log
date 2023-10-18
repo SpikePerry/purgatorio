@@ -1399,3 +1399,50 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.10.18-09.56.05:832][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.10.18-09.56.05:935][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.10.18-09.56.33:953][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.18-10.02.58:728][159]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.18-10.02.58:730][159]LogToolMenus: Warning: Menu item not found: 'OpenMarketplace' for insert: 'ContentBrowser'
+[2023.10.18-10.03.01:646][480]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.18-10.03.01:646][480]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.18-10.03.01:651][480]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389CBB301_1396276911
+[2023.10.18-10.03.01:654][480]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389CBB301_1396276911
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: ================================================
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Total job queries 6337, among them cache hits 4 (0.06%)
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Tracking 6330 distinct input hashes that result in 4564 distinct outputs (72.10%)
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: RAM used: 37.93 MB (0.04 GB) of 3276.80 MB (3.20 GB) budget. Usage: 1.16%
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Shaders Compiled: 6330
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Jobs assigned 6333, completed 6330 (99.95%)
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Average time worker was idle: 2.72 s
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Time job spent in pending queue: average 148.86 s, longest 297.27 s
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Job execution time: average 3.79 s, max 27.22 s
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Job life time (pending + execution): average 152.72 s, max 298.58
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 309.22 s
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Jobs were issued in 682 batches (only local compilation was used), average 9.29 jobs/batch
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Average processing rate: 20.47 jobs/sec
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Total thread time: 2360.39 s
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Total thread preprocess time: 138.12 s
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Percentage time preprocessing: 5.85%
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Effective parallelization: 7.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 11.81 sec, max 25.32 sec, min 1.95 sec)
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.22 sec, max 4.96 sec, min 2.97 sec)
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.74 sec, max 6.19 sec, min 1.61 sec)
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.61 sec, max 2.79 sec, min 0.93 sec)
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 1.37 sec, max 1.62 sec, min 1.20 sec)
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display:                                             FDeferredLightPS - 8.73% of total time (compiled  150 times, average 1.37 sec, max 1.62 sec, min 1.20 sec)
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display:                                                   FTonemapCS - 3.52% of total time (compiled  420 times, average 0.20 sec, max 0.27 sec, min 0.16 sec)
+[2023.10.18-10.03.02:344][504]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 3.29% of total time (compiled  256 times, average 0.30 sec, max 0.45 sec, min 0.21 sec)
+[2023.10.18-10.03.02:345][504]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 3.00% of total time (compiled    6 times, average 11.81 sec, max 25.32 sec, min 1.95 sec)
+[2023.10.18-10.03.02:345][504]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 2.91% of total time (compiled  128 times, average 0.54 sec, max 0.74 sec, min 0.34 sec)
+[2023.10.18-10.03.02:345][504]LogShaderCompilers: Display: ================================================
+[2023.10.18-10.03.27:868][716]Cmd: DELETE
+[2023.10.18-10.03.27:868][716]Cmd: ACTOR DELETE
+[2023.10.18-10.03.27:871][716]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.10.18-10.03.27:879][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.18-10.03.27:880][716]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.10.18-10.05.23:391][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.18-10.05.23:391][692]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.10.18-10.05.23:392][692]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389CBB301_1538021912
+[2023.10.18-10.05.23:392][692]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389CBB301_1538021912

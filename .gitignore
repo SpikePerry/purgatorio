@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Purgatorio_Game/Content/__ExternalActors__/TestLevel/0/4W/KVY8MIT5LQFF3I505L5EAD.uasset
+Purgatorio_Game/Saved/Logs/Purgatorio_Game.log

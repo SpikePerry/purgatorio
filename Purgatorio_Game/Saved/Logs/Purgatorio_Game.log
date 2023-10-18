@@ -1372,3 +1372,731 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.16% of total time (compiled    3 times, average 0.95 sec, max 0.98 sec, min 0.94 sec)
 [2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 2.37% of total time (compiled    4 times, average 0.54 sec, max 0.59 sec, min 0.44 sec)
 [2023.10.18-10.51.33:872][250]LogShaderCompilers: Display: ================================================
+[2023.10.18-11.00.31:291][526]LogSlate: Took 0.004851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.18-11.00.39:696][526]LogSlate: Window 'Save Level As' being destroyed
+[2023.10.18-11.00.40:009][526]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TestLevel_HLOD0_Instancing
+/Game/__ExternalActors__/TestLevel/D/KN/9R9P0RDFT42JHZ7D5NAFN0
+/Game/__ExternalObjects__/TestLevel/8/EC/MQQBNZPPNBWZ3ETRE7HU8A
+/Game/__ExternalObjects__/TestLevel/E/8L/3BHHXYUBR5XYPEWAZEUFDW
+/Game/__ExternalObjects__/TestLevel/A/ZO/4WVR7E8KX2WIM7AJ3S7A70
+/Game/__ExternalObjects__/TestLevel/7/IE/7GJMEG9VSCHPGHFJM648P6
+/Game/__ExternalObjects__/TestLevel/C/EG/XGQKI8TLOYSQO69G2FA9PE
+/Game/__ExternalActors__/TestLevel/9/82/VJID8KUAH6GS6ZKKDJ8WMG
+/Game/__ExternalActors__/TestLevel/1/AO/8BNTBG7BVWMNJHLLW5V85F
+/Game/__ExternalActors__/TestLevel/0/B9/7FKO69CTG8V9SJRJ2XMGWS
+/Game/__ExternalActors__/TestLevel/3/SI/Z39O8X4ENU2QQZNQC9MDTC
+/Game/__ExternalActors__/TestLevel/1/NE/60AXFWT7AY1G8OW498A0NQ
+/Game/__ExternalActors__/TestLevel/9/S3/1X1458TOL3DE211JNI4J7Q
+/Game/__ExternalActors__/TestLevel/B/P3/M6VGE5XFL6KD6FTERF5YVU
+/Game/__ExternalActors__/TestLevel/D/LC/P1C7IDNV135T9APVJZDE2B
+/Game/__ExternalActors__/TestLevel/1/Y3/TWOFFRRVY9VSMSTV5UG1G1
+/Game/__ExternalActors__/TestLevel/D/VU/TG077VXWFGCS3WSZDUFDI3
+/Game/__ExternalActors__/TestLevel/1/1Z/9X9Q7CO0ZENLZDNWU9ANRF
+/Game/__ExternalActors__/TestLevel/2/5N/JXXSFIWDOOD07TJ8E1EHF1
+/Game/__ExternalActors__/TestLevel/1/SN/ITRU9VA1L44HXM8R5R9QVG
+/Game/__ExternalActors__/TestLevel/1/FT/HTOA4C6V8E92B9VY1EQ051
+/Game/__ExternalActors__/TestLevel/B/CA/T566HK2FVKNADZGP7X8Y6X
+/Game/__ExternalActors__/TestLevel/0/4W/KVY8MIT5LQFF3I505L5EAD
+/Game/__ExternalActors__/TestLevel/7/YJ/GHU8R9O1BNXL96VD22EONT
+/Game/__ExternalActors__/TestLevel/B/P9/M0AB4YJ5PZBLS487BAE5TO
+/Game/__ExternalActors__/TestLevel/3/V0/GTTXN0JUQ3SCLMAZFQ74PW
+/Game/__ExternalActors__/TestLevel/B/AM/SQQBD0BMD4PNPD5WSFUJT1
+/Game/__ExternalActors__/TestLevel/E/73/CYGWGY33NPHZTWZ61AJFIX
+/Game/__ExternalActors__/TestLevel/B/6C/MT6ESU0IUY4TWKZTIMNW6S
+/Game/__ExternalActors__/TestLevel/1/18/I6GJ2FWOQGJ8YWBCFTIZDO
+/Game/__ExternalActors__/TestLevel/A/DI/RMPMO9OXGIRCHTRWBCH98D
+/Game/__ExternalActors__/TestLevel/8/KQ/TP5BH1TLR3C2ENYBDRYVMW
+/Game/__ExternalActors__/TestLevel/D/C2/7AK1G9DMJC7P4D8VGDMVLS
+/Game/__ExternalActors__/TestLevel/D/ZO/D6KH4NSFFTH42BILVC3I65
+/Game/__ExternalActors__/TestLevel/6/F2/WD24BHM7BP69X6DTO0Q6N4
+/Game/__ExternalActors__/TestLevel/A/0E/DYBWDNJQQY6XDV9T7BS9PR
+/Game/__ExternalActors__/TestLevel/3/8X/VFOOBEI4AI1XX0FH87WQCL
+/Game/__ExternalActors__/TestLevel/6/02/YD2D72PL1NQR5AVVN0A6T1
+/Game/__ExternalActors__/TestLevel/5/3F/JDNAGE0I5VOCRA39RY0V8C
+/Game/__ExternalActors__/TestLevel/8/DX/ZQ8SST11X5NF91JUSLE5PT
+/Game/__ExternalActors__/TestLevel/9/UD/QS56GPQM2O7LUV9UBT0U95
+/Game/__ExternalActors__/TestLevel/3/CV/PHYJUGHUHNSHE0LPKMD6KW
+/Game/__ExternalActors__/TestLevel/A/KO/MB2SL64WYLS2Q4U6FRANOX
+/Game/__ExternalActors__/TestLevel/F/2I/R38TIY0LVNPI5SHXAEJV1B
+/Game/__ExternalActors__/TestLevel/A/4W/70178Q9KBJY6MRQP3XA625
+/Game/__ExternalActors__/TestLevel/A/JO/ICE0IEPD2XF7YJ7QSPSMS9
+/Game/__ExternalActors__/TestLevel/E/IC/HPLVSKHGYFRK0OKIO3FKTM
+/Game/__ExternalActors__/TestLevel/C/FL/3OHEB34NCTNIM0E7KNSKJ3
+/Game/__ExternalActors__/TestLevel/A/LK/L6Y7T7KA2Z75KPTJG7YAVU
+/Game/__ExternalActors__/TestLevel/8/5X/R97DT7DLMXS5FXW8HF1G6J
+/Game/__ExternalActors__/TestLevel/6/AA/ZN71SX57YVNMBLC4U42TQK
+/Game/__ExternalActors__/TestLevel/7/EO/8BHYJKKJ7FCZG69JFC3OIE
+/Game/__ExternalActors__/TestLevel/1/05/RCM552Z2X9S4FSAZMYGIW2
+/Game/__ExternalActors__/TestLevel/0/7P/FO5YKNCWPZQDYOO3Q2I1C2
+/Game/__ExternalActors__/TestLevel/7/DI/0XZPDVKHYS291KFB0NRPQX
+/Game/__ExternalActors__/TestLevel/0/AG/1SX5LH34NN7WSA4S30POQ3
+/Game/__ExternalActors__/TestLevel/6/RS/KW559SDPKTXA5GB82HX6EF
+/Game/__ExternalActors__/TestLevel/A/RU/KP3HZMYZJS9NOTW6E174BX
+/Game/__ExternalActors__/TestLevel/3/NA/Y4A4SJH8WLJ6YBP2H2257X
+/Game/__ExternalActors__/TestLevel/6/56/CU8607DRIZDRL3721P75JT
+/Game/__ExternalActors__/TestLevel/A/II/EAPHRG2ZAA07Z3XADIC9B4
+/Game/__ExternalActors__/TestLevel/E/4E/4OHZ0C35XEIJLWB1IYBD43
+/Game/__ExternalActors__/TestLevel/1/X8/2HB5NJS9KABOK0SFDM3QEX
+/Game/__ExternalActors__/TestLevel/4/ZA/3AOQQ4ARIK1LVMPHX1BD8F
+/Game/__ExternalActors__/TestLevel/8/C7/G87GXJ9QBQGTW5OS9QJDCF
+/Game/__ExternalActors__/TestLevel/A/2R/7JDHWJJCBN9WJGW25FRQIY
+/Game/__ExternalActors__/TestLevel/9/GU/Y5BB1CUEM17Y8WR5RJK87Q
+/Game/__ExternalActors__/TestLevel/D/DD/WIWRAPURKJZ33EJGH20IVM
+/Game/__ExternalActors__/TestLevel/C/4W/UWI92CZEI6Z9D8HSY92TMV
+/Game/__ExternalActors__/TestLevel/1/VN/X5CTR1PPUL6VOBIAUZU3CQ
+/Game/__ExternalActors__/TestLevel/8/UT/C1NXFT3445IHQFSW27W70Q
+/Game/__ExternalActors__/TestLevel/6/C2/EIJBPFIKPO1FSHAENCRN2X
+/Game/__ExternalActors__/TestLevel/C/9G/5ZRQXEVJ1P3XE1NK1LXIZT
+/Game/__ExternalActors__/TestLevel/3/UJ/JHM13ID7U6YAYOERUKZ8QH
+/Game/__ExternalActors__/TestLevel/8/18/7BYMR5FG4AK0AN0Q277EDR
+/Game/__ExternalActors__/TestLevel/8/7T/2DXGKDNGQ8FKW1PG2WTROB
+/Game/__ExternalActors__/TestLevel/8/9P/GD27R35XAEXG8X6UPLPM26
+/Game/__ExternalActors__/TestLevel/6/ZD/FNWCTJEHDIASLCBHKFBVNH
+/Game/__ExternalActors__/TestLevel/F/0Z/PW3S7FZAH6VYNV0KAT46G7
+/Game/__ExternalActors__/TestLevel/3/ZW/F7DP3UV8G2TTPTKI1E168I
+/Game/__ExternalActors__/TestLevel/C/6T/VBBWC65FV0X4PBF3PONLNU
+/Game/__ExternalActors__/TestLevel/6/03/6B9OCJG2HWVPHTXG81EQ0X
+/Game/__ExternalActors__/TestLevel/2/IL/QEAWAPG00ELBQ6YTSW5HZA
+/Game/__ExternalActors__/TestLevel/7/KS/PQSGNT82T45MXSMGS8VNKW
+/Game/__ExternalActors__/TestLevel/C/EQ/6PX1D1O35EMNGA4K5KDXNB
+/Game/__ExternalActors__/TestLevel/1/WK/1Z2XE8QZNR3Y2FCP7WFSNZ
+/Game/__ExternalActors__/TestLevel/B/R7/BKWV3BW3HUNYQ63GCHHA3T
+/Game/__ExternalActors__/TestLevel/C/DZ/KKBUDN33PKCTHDEC5YJKSX
+/Game/__ExternalActors__/TestLevel/9/OT/ZGOBNOT6ZZYJY4PYSRX80X
+/Game/__ExternalActors__/TestLevel/0/NP/BHNE60OYQ1GFPUCMEBKTJK
+/Game/__ExternalActors__/TestLevel/4/NK/PCHJ4MM2F7V2IGOHW3JGTH
+/Game/__ExternalActors__/TestLevel/5/FB/A6M2ABHFRMF63RBW2EYL5R
+/Game/__ExternalActors__/TestLevel/1/4Q/O5WD7N0CHPZ6HCR8JDMJKN
+/Game/__ExternalActors__/TestLevel/5/BT/0Y6N4H4GRHOQI657RCULRS
+/Game/__ExternalActors__/TestLevel/8/G4/FBZTBKVMGRPYI9D6QN06S1
+/Game/__ExternalActors__/TestLevel/D/WR/24J1SVL7YNTQEPQP3AQMI0
+/Game/__ExternalActors__/TestLevel/1/QV/4WRVRZN7QGLUSLDJXV7W5D
+/Game/__ExternalActors__/TestLevel/0/O4/SYXX8EASQX81EDZP03ISMM
+/Game/__ExternalActors__/TestLevel/7/86/6FN7M43QUOZDWKWMQ5TNZR
+/Game/__ExternalActors__/TestLevel/3/ZI/J6Y0NQDAJUSX9HG7ETQ8MO
+/Game/__ExternalActors__/TestLevel/0/DH/EQZYM5SUO5CZU8XNK7SBCN
+/Game/__ExternalActors__/TestLevel/4/RQ/W7O4XLSZVDQ2K8U4DDN523
+/Game/__ExternalActors__/TestLevel/C/FN/B29HIYP10PSIR457JSJUZU
+/Game/__ExternalActors__/TestLevel/5/5S/WGY3KO0PFFCZJZJ65G7JON
+/Game/__ExternalActors__/TestLevel/E/K2/YKSRJ3TFUQIS81026F8Y0T
+/Game/__ExternalActors__/TestLevel/3/SY/OMSZKKKAI6QRK4W0ZO8ZQA
+/Game/__ExternalActors__/TestLevel/1/MB/4Z0ACAFEPT1NXHTWI4LI4V
+/Game/__ExternalActors__/TestLevel/2/57/UB1FCAO2QWTDL4EFBRX23R
+/Game/__ExternalActors__/TestLevel/6/KF/6JF8P83H1JW569HWKNDBLX
+/Game/__ExternalActors__/TestLevel/B/H7/0EVUA3KO1A4O28VHKOGFHR
+/Game/__ExternalActors__/TestLevel/9/8E/KPQFG6II3VX66UOUKVB11T
+/Game/__ExternalActors__/TestLevel/4/VP/LOO4TF6IX5OGPA1SSW6L6O
+/Game/__ExternalActors__/TestLevel/C/VW/VQIMUP3EWTXXFCTKMNL4A2
+/Game/__ExternalActors__/TestLevel/3/VF/1CASQR6IP3ETHJI6UTKKEA
+/Game/__ExternalActors__/TestLevel/D/NH/SU3765BFEQQIN45SQGXS10
+/Game/__ExternalActors__/TestLevel/3/MA/EPPJWEW440D5RUKNUP3RNJ
+/Game/__ExternalActors__/TestLevel/3/E6/CZT0ZU4K0ILLXQDLXYB9QC
+/Game/__ExternalActors__/TestLevel/8/EX/JB4HR1TB4ECXIQEHUFN46X
+/Game/__ExternalActors__/TestLevel/D/IW/H7RABA5O1U8NJ9ZVZOBSF7
+/Game/__ExternalActors__/TestLevel/2/FK/19HKGJZAIWS0O9K1X3S7ZW
+/Game/__ExternalActors__/TestLevel/C/TY/5HPXLEG8CO562HIWMX5NX7
+/Game/__ExternalActors__/TestLevel/8/ZV/7ANPVHYVI1SW1XI6NASM4F
+/Game/__ExternalActors__/TestLevel/1/TM/H5VYH7SR5T1PNLBM0VSE39
+/Game/__ExternalActors__/TestLevel/9/2M/MYI3NTCAEEXJUGJGL2WHKS
+/Game/__ExternalActors__/TestLevel/2/RP/FSJQNJOYIEA274933T87UF
+/Game/__ExternalActors__/TestLevel/E/WH/PQBRQ8DWNXRQSVNC8GZZRI
+/Game/__ExternalActors__/TestLevel/8/FX/C5PS3VROFDOAJB83KH40DK
+/Game/__ExternalActors__/TestLevel/3/4F/35N00CWO8PCGVAWKS5A1S0
+/Game/__ExternalActors__/TestLevel/B/YN/5TZMTVLDP6IGQ7VLGEJJKP
+/Game/__ExternalActors__/TestLevel/B/3Q/M024JV4AZ30UYXLTGV5ETH
+/Game/__ExternalActors__/TestLevel/8/YP/86X89FT50T6ZAHXF6H0F17
+/Game/__ExternalActors__/TestLevel/7/HX/SNN6TWLFCAVFKEA5VR87C9
+/Game/__ExternalActors__/TestLevel/3/WS/VVRRSNM4CUWTQHMLW6BJPU
+/Game/__ExternalActors__/TestLevel/9/VA/EX41YI3MI2PB84TBKGBRM0
+/Game/__ExternalActors__/TestLevel/4/8D/Y881UOQQSR584701QQE162
+/Game/__ExternalActors__/TestLevel/3/R6/1BZ573QQ33WKL8TP5P0B27
+/Game/__ExternalActors__/TestLevel/0/0H/M3E95DPM20OF8P26HON3N5
+/Game/__ExternalActors__/TestLevel/7/PE/MSSYQS2628FGQ8G4V4XMKU
+/Game/__ExternalActors__/TestLevel/9/0J/F832P6KBANG2KDS6HTS9E9
+/Game/__ExternalActors__/TestLevel/D/0K/BLNYI45Z34ZK7XIFH08BEN
+/Game/__ExternalActors__/TestLevel/B/3O/2OM742N13XO1LU3MKLECNM
+/Game/__ExternalActors__/TestLevel/0/IF/RILI4K23XHWX8CLI3NYG8C
+/Game/__ExternalActors__/TestLevel/E/Q4/EFYV8344BLVD450JJFFKEG
+/Game/__ExternalActors__/TestLevel/B/K8/BEK6IU3ULPCDTJXB2CJW4S
+[2023.10.18-11.00.40:009][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.18-11.00.40:009][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel_HLOD0_Instancing" FILE="../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/TestLevel_HLOD0_Instancing.uasset" SILENT=true
+[2023.10.18-11.00.40:010][526]LogSavePackage: Moving output files for package: /Game/TestLevel_HLOD0_Instancing
+[2023.10.18-11.00.40:010][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/TestLevel_HLOD0_InstancingD62B056F44B681986D6C24AA0810C82D.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/TestLevel_HLOD0_Instancing.uasset'
+[2023.10.18-11.00.40:011][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/KN/9R9P0RDFT42JHZ7D5NAFN0
+[2023.10.18-11.00.40:011][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/9R9P0RDFT42JHZ7D5NAFN01CE30EE8457DD5B739A640931D09B915.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/D/KN/9R9P0RDFT42JHZ7D5NAFN0.uasset'
+[2023.10.18-11.00.40:012][526]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TestLevel/8/EC/MQQBNZPPNBWZ3ETRE7HU8A
+[2023.10.18-11.00.40:012][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/MQQBNZPPNBWZ3ETRE7HU8A7F99D43F4DAC9DEDD49D6DA771DAE5D4.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalObjects__/TestLevel/8/EC/MQQBNZPPNBWZ3ETRE7HU8A.uasset'
+[2023.10.18-11.00.40:014][526]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TestLevel/E/8L/3BHHXYUBR5XYPEWAZEUFDW
+[2023.10.18-11.00.40:014][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/3BHHXYUBR5XYPEWAZEUFDW83F00CFE45BEE7DD3F5A2EB9F8B66FA1.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalObjects__/TestLevel/E/8L/3BHHXYUBR5XYPEWAZEUFDW.uasset'
+[2023.10.18-11.00.40:015][526]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TestLevel/A/ZO/4WVR7E8KX2WIM7AJ3S7A70
+[2023.10.18-11.00.40:015][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/4WVR7E8KX2WIM7AJ3S7A707263F36F40F968B5AAD7F29D65F93C0B.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalObjects__/TestLevel/A/ZO/4WVR7E8KX2WIM7AJ3S7A70.uasset'
+[2023.10.18-11.00.40:016][526]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TestLevel/7/IE/7GJMEG9VSCHPGHFJM648P6
+[2023.10.18-11.00.40:016][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/7GJMEG9VSCHPGHFJM648P69051108C40E9704FA511D09942E4F264.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalObjects__/TestLevel/7/IE/7GJMEG9VSCHPGHFJM648P6.uasset'
+[2023.10.18-11.00.40:017][526]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/TestLevel/C/EG/XGQKI8TLOYSQO69G2FA9PE
+[2023.10.18-11.00.40:018][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/XGQKI8TLOYSQO69G2FA9PEC710745C47D547FF39926794932FF7DA.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalObjects__/TestLevel/C/EG/XGQKI8TLOYSQO69G2FA9PE.uasset'
+[2023.10.18-11.00.40:020][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/82/VJID8KUAH6GS6ZKKDJ8WMG
+[2023.10.18-11.00.40:020][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/VJID8KUAH6GS6ZKKDJ8WMGD47850064E018B7A934BF9A531A0FB71.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/9/82/VJID8KUAH6GS6ZKKDJ8WMG.uasset'
+[2023.10.18-11.00.40:022][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/AO/8BNTBG7BVWMNJHLLW5V85F
+[2023.10.18-11.00.40:023][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/8BNTBG7BVWMNJHLLW5V85FC14C5DD14F57A9EDBF2D2C852076AA19.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/AO/8BNTBG7BVWMNJHLLW5V85F.uasset'
+[2023.10.18-11.00.40:024][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/B9/7FKO69CTG8V9SJRJ2XMGWS
+[2023.10.18-11.00.40:024][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/7FKO69CTG8V9SJRJ2XMGWSED58EF5F4308A58E74FBEA8F2FD33E0D.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/0/B9/7FKO69CTG8V9SJRJ2XMGWS.uasset'
+[2023.10.18-11.00.40:026][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/SI/Z39O8X4ENU2QQZNQC9MDTC
+[2023.10.18-11.00.40:026][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/Z39O8X4ENU2QQZNQC9MDTCD3FE0A4D412B722CCE48969DB8977DB7.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/SI/Z39O8X4ENU2QQZNQC9MDTC.uasset'
+[2023.10.18-11.00.40:027][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/NE/60AXFWT7AY1G8OW498A0NQ
+[2023.10.18-11.00.40:027][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/60AXFWT7AY1G8OW498A0NQ16768AA149F030385E558A83D822C11E.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/NE/60AXFWT7AY1G8OW498A0NQ.uasset'
+[2023.10.18-11.00.40:028][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/S3/1X1458TOL3DE211JNI4J7Q
+[2023.10.18-11.00.40:028][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/1X1458TOL3DE211JNI4J7Q6A4E467A47EF3AF1502DAB840485E17D.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/9/S3/1X1458TOL3DE211JNI4J7Q.uasset'
+[2023.10.18-11.00.40:030][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/P3/M6VGE5XFL6KD6FTERF5YVU
+[2023.10.18-11.00.40:030][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/M6VGE5XFL6KD6FTERF5YVUCC6DCC34477184D1BBA0A592DCDB0B3F.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/P3/M6VGE5XFL6KD6FTERF5YVU.uasset'
+[2023.10.18-11.00.40:032][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/LC/P1C7IDNV135T9APVJZDE2B
+[2023.10.18-11.00.40:032][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/P1C7IDNV135T9APVJZDE2B22888AB84F78A1667093CA8DA8B37609.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/D/LC/P1C7IDNV135T9APVJZDE2B.uasset'
+[2023.10.18-11.00.40:039][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/Y3/TWOFFRRVY9VSMSTV5UG1G1
+[2023.10.18-11.00.40:039][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/TWOFFRRVY9VSMSTV5UG1G17C7850EA4D036B97153A2C8BBC6F8031.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/Y3/TWOFFRRVY9VSMSTV5UG1G1.uasset'
+[2023.10.18-11.00.40:046][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/VU/TG077VXWFGCS3WSZDUFDI3
+[2023.10.18-11.00.40:046][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/TG077VXWFGCS3WSZDUFDI3B321D7C44B8716A5BB5C5CA8DBBE0334.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/D/VU/TG077VXWFGCS3WSZDUFDI3.uasset'
+[2023.10.18-11.00.40:053][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/1Z/9X9Q7CO0ZENLZDNWU9ANRF
+[2023.10.18-11.00.40:053][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/9X9Q7CO0ZENLZDNWU9ANRFCA7FA6DC41204F9C2C945683E42DA1B0.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/1Z/9X9Q7CO0ZENLZDNWU9ANRF.uasset'
+[2023.10.18-11.00.40:059][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/5N/JXXSFIWDOOD07TJ8E1EHF1
+[2023.10.18-11.00.40:059][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/JXXSFIWDOOD07TJ8E1EHF12778EBA54CEFC3C42C3F09B00A5B121D.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/2/5N/JXXSFIWDOOD07TJ8E1EHF1.uasset'
+[2023.10.18-11.00.40:067][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/SN/ITRU9VA1L44HXM8R5R9QVG
+[2023.10.18-11.00.40:067][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/ITRU9VA1L44HXM8R5R9QVG48E7DA5A45B0E3FEC3795DBA698B86CB.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/SN/ITRU9VA1L44HXM8R5R9QVG.uasset'
+[2023.10.18-11.00.40:074][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/FT/HTOA4C6V8E92B9VY1EQ051
+[2023.10.18-11.00.40:074][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/HTOA4C6V8E92B9VY1EQ0515CD5A5ED4B0F4BF38237ED91FF70ED9E.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/FT/HTOA4C6V8E92B9VY1EQ051.uasset'
+[2023.10.18-11.00.40:081][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/CA/T566HK2FVKNADZGP7X8Y6X
+[2023.10.18-11.00.40:081][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/T566HK2FVKNADZGP7X8Y6X2C27300B42E5648ECC244F8361419798.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/CA/T566HK2FVKNADZGP7X8Y6X.uasset'
+[2023.10.18-11.00.40:088][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/4W/KVY8MIT5LQFF3I505L5EAD
+[2023.10.18-11.00.40:088][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/KVY8MIT5LQFF3I505L5EAD8EFB26C54607BF77FE501BACD81F318D.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/0/4W/KVY8MIT5LQFF3I505L5EAD.uasset'
+[2023.10.18-11.00.40:095][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/7/YJ/GHU8R9O1BNXL96VD22EONT
+[2023.10.18-11.00.40:095][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/GHU8R9O1BNXL96VD22EONT40B9E2EE46C897EAD794FB9A9E01C6E0.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/7/YJ/GHU8R9O1BNXL96VD22EONT.uasset'
+[2023.10.18-11.00.40:102][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/P9/M0AB4YJ5PZBLS487BAE5TO
+[2023.10.18-11.00.40:103][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/M0AB4YJ5PZBLS487BAE5TOBE6D6EFF45F5C10B1629E0B214565DC9.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/P9/M0AB4YJ5PZBLS487BAE5TO.uasset'
+[2023.10.18-11.00.40:110][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/V0/GTTXN0JUQ3SCLMAZFQ74PW
+[2023.10.18-11.00.40:110][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/GTTXN0JUQ3SCLMAZFQ74PW2A5008FC4BDC965A1801308F286D74B9.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/V0/GTTXN0JUQ3SCLMAZFQ74PW.uasset'
+[2023.10.18-11.00.40:117][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/AM/SQQBD0BMD4PNPD5WSFUJT1
+[2023.10.18-11.00.40:117][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/SQQBD0BMD4PNPD5WSFUJT1735EED104147C4C0C28295A70C74115B.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/AM/SQQBD0BMD4PNPD5WSFUJT1.uasset'
+[2023.10.18-11.00.40:124][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/73/CYGWGY33NPHZTWZ61AJFIX
+[2023.10.18-11.00.40:124][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/CYGWGY33NPHZTWZ61AJFIX11CA8DF347FBC962CCFE49914E98ED4A.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/E/73/CYGWGY33NPHZTWZ61AJFIX.uasset'
+[2023.10.18-11.00.40:131][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/6C/MT6ESU0IUY4TWKZTIMNW6S
+[2023.10.18-11.00.40:131][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/MT6ESU0IUY4TWKZTIMNW6SCADCBA584963C02DF2335387DC518399.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/6C/MT6ESU0IUY4TWKZTIMNW6S.uasset'
+[2023.10.18-11.00.40:138][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/18/I6GJ2FWOQGJ8YWBCFTIZDO
+[2023.10.18-11.00.40:138][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/I6GJ2FWOQGJ8YWBCFTIZDOF779866A43DEE0B592CDEFB689D7EEBD.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/18/I6GJ2FWOQGJ8YWBCFTIZDO.uasset'
+[2023.10.18-11.00.40:145][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/DI/RMPMO9OXGIRCHTRWBCH98D
+[2023.10.18-11.00.40:145][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/RMPMO9OXGIRCHTRWBCH98D50A516B94F4A9662816EE1B6D4AB5AE6.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/A/DI/RMPMO9OXGIRCHTRWBCH98D.uasset'
+[2023.10.18-11.00.40:152][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/KQ/TP5BH1TLR3C2ENYBDRYVMW
+[2023.10.18-11.00.40:152][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/TP5BH1TLR3C2ENYBDRYVMW132638544760DA700748F384AFDD56B1.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/KQ/TP5BH1TLR3C2ENYBDRYVMW.uasset'
+[2023.10.18-11.00.40:159][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/C2/7AK1G9DMJC7P4D8VGDMVLS
+[2023.10.18-11.00.40:159][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/7AK1G9DMJC7P4D8VGDMVLS885385CE412DCEA6DB8C77A8D429E5AD.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/D/C2/7AK1G9DMJC7P4D8VGDMVLS.uasset'
+[2023.10.18-11.00.40:166][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/ZO/D6KH4NSFFTH42BILVC3I65
+[2023.10.18-11.00.40:166][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/D6KH4NSFFTH42BILVC3I6552CB3E8846B69E9450F97A94D6AC7355.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/D/ZO/D6KH4NSFFTH42BILVC3I65.uasset'
+[2023.10.18-11.00.40:173][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/F2/WD24BHM7BP69X6DTO0Q6N4
+[2023.10.18-11.00.40:173][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/WD24BHM7BP69X6DTO0Q6N463CD3D6743022CC98A650285938D98BE.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/6/F2/WD24BHM7BP69X6DTO0Q6N4.uasset'
+[2023.10.18-11.00.40:180][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/0E/DYBWDNJQQY6XDV9T7BS9PR
+[2023.10.18-11.00.40:180][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/DYBWDNJQQY6XDV9T7BS9PRB9C6488748E6773D8FA6BF86D16C59F1.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/A/0E/DYBWDNJQQY6XDV9T7BS9PR.uasset'
+[2023.10.18-11.00.40:189][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/8X/VFOOBEI4AI1XX0FH87WQCL
+[2023.10.18-11.00.40:189][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/VFOOBEI4AI1XX0FH87WQCLEC72CAEB4CF413A0DD4D77BBAB1A5472.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/8X/VFOOBEI4AI1XX0FH87WQCL.uasset'
+[2023.10.18-11.00.40:196][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/02/YD2D72PL1NQR5AVVN0A6T1
+[2023.10.18-11.00.40:196][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/YD2D72PL1NQR5AVVN0A6T1BEF269F34D33957AF94419ADA55C19B0.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/6/02/YD2D72PL1NQR5AVVN0A6T1.uasset'
+[2023.10.18-11.00.40:203][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/5/3F/JDNAGE0I5VOCRA39RY0V8C
+[2023.10.18-11.00.40:203][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/JDNAGE0I5VOCRA39RY0V8CD7666DFD4CB42DA1992D8088637A1BCD.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/5/3F/JDNAGE0I5VOCRA39RY0V8C.uasset'
+[2023.10.18-11.00.40:210][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/DX/ZQ8SST11X5NF91JUSLE5PT
+[2023.10.18-11.00.40:210][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/ZQ8SST11X5NF91JUSLE5PT567DF18D4915E8C976D4FDAAB29A2820.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/DX/ZQ8SST11X5NF91JUSLE5PT.uasset'
+[2023.10.18-11.00.40:217][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/UD/QS56GPQM2O7LUV9UBT0U95
+[2023.10.18-11.00.40:218][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/QS56GPQM2O7LUV9UBT0U95A443A41546AE9CDFEC963D9B87853BC2.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/9/UD/QS56GPQM2O7LUV9UBT0U95.uasset'
+[2023.10.18-11.00.40:225][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/CV/PHYJUGHUHNSHE0LPKMD6KW
+[2023.10.18-11.00.40:225][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/PHYJUGHUHNSHE0LPKMD6KW423E0D2A495C8153A20C208F8AEFCF57.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/CV/PHYJUGHUHNSHE0LPKMD6KW.uasset'
+[2023.10.18-11.00.40:232][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/KO/MB2SL64WYLS2Q4U6FRANOX
+[2023.10.18-11.00.40:232][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/MB2SL64WYLS2Q4U6FRANOXBDB1E7D64246550998B654A6A83702E8.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/A/KO/MB2SL64WYLS2Q4U6FRANOX.uasset'
+[2023.10.18-11.00.40:239][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/F/2I/R38TIY0LVNPI5SHXAEJV1B
+[2023.10.18-11.00.40:239][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/R38TIY0LVNPI5SHXAEJV1B12D2706D472327326ED723BFFA6E471E.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/F/2I/R38TIY0LVNPI5SHXAEJV1B.uasset'
+[2023.10.18-11.00.40:246][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/4W/70178Q9KBJY6MRQP3XA625
+[2023.10.18-11.00.40:246][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/70178Q9KBJY6MRQP3XA625EEBB25BC485A590A2BEBA3AAACA8221C.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/A/4W/70178Q9KBJY6MRQP3XA625.uasset'
+[2023.10.18-11.00.40:253][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/JO/ICE0IEPD2XF7YJ7QSPSMS9
+[2023.10.18-11.00.40:253][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/ICE0IEPD2XF7YJ7QSPSMS9308F49BC44FDF1C483CBFE81FA086F0B.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/A/JO/ICE0IEPD2XF7YJ7QSPSMS9.uasset'
+[2023.10.18-11.00.40:259][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/IC/HPLVSKHGYFRK0OKIO3FKTM
+[2023.10.18-11.00.40:259][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/HPLVSKHGYFRK0OKIO3FKTM026D76C24E63945891B5C4ABF3167D37.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/E/IC/HPLVSKHGYFRK0OKIO3FKTM.uasset'
+[2023.10.18-11.00.40:266][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/FL/3OHEB34NCTNIM0E7KNSKJ3
+[2023.10.18-11.00.40:266][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/3OHEB34NCTNIM0E7KNSKJ3B39B20D449EADE220373DBAA0C0B4E99.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/C/FL/3OHEB34NCTNIM0E7KNSKJ3.uasset'
+[2023.10.18-11.00.40:273][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/LK/L6Y7T7KA2Z75KPTJG7YAVU
+[2023.10.18-11.00.40:273][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/L6Y7T7KA2Z75KPTJG7YAVU2D274D9B408AE98B4260A88C1368643D.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/A/LK/L6Y7T7KA2Z75KPTJG7YAVU.uasset'
+[2023.10.18-11.00.40:281][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/5X/R97DT7DLMXS5FXW8HF1G6J
+[2023.10.18-11.00.40:281][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/R97DT7DLMXS5FXW8HF1G6J333EC2C84E3FEB82DF6D96AEEEEBDA52.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/5X/R97DT7DLMXS5FXW8HF1G6J.uasset'
+[2023.10.18-11.00.40:289][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/AA/ZN71SX57YVNMBLC4U42TQK
+[2023.10.18-11.00.40:289][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/ZN71SX57YVNMBLC4U42TQK0409718A43FB03201BAEFABAADBB1AA2.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/6/AA/ZN71SX57YVNMBLC4U42TQK.uasset'
+[2023.10.18-11.00.40:296][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/7/EO/8BHYJKKJ7FCZG69JFC3OIE
+[2023.10.18-11.00.40:296][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/8BHYJKKJ7FCZG69JFC3OIEC9D286A0408F16EDE04DE9BAA331A4A7.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/7/EO/8BHYJKKJ7FCZG69JFC3OIE.uasset'
+[2023.10.18-11.00.40:303][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/05/RCM552Z2X9S4FSAZMYGIW2
+[2023.10.18-11.00.40:304][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/RCM552Z2X9S4FSAZMYGIW2F9D7F5B346CB95B8B7216798CEF6BBCE.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/05/RCM552Z2X9S4FSAZMYGIW2.uasset'
+[2023.10.18-11.00.40:311][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/7P/FO5YKNCWPZQDYOO3Q2I1C2
+[2023.10.18-11.00.40:311][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/FO5YKNCWPZQDYOO3Q2I1C2F3CF2088433D34C1799D5C9D09B92434.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/0/7P/FO5YKNCWPZQDYOO3Q2I1C2.uasset'
+[2023.10.18-11.00.40:318][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/7/DI/0XZPDVKHYS291KFB0NRPQX
+[2023.10.18-11.00.40:318][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/0XZPDVKHYS291KFB0NRPQX63A6E9864CD08B25D4DADDAFDA3C75A9.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/7/DI/0XZPDVKHYS291KFB0NRPQX.uasset'
+[2023.10.18-11.00.40:325][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/AG/1SX5LH34NN7WSA4S30POQ3
+[2023.10.18-11.00.40:325][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/1SX5LH34NN7WSA4S30POQ3A570BF544571F06733E9F8A2F27F5A5B.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/0/AG/1SX5LH34NN7WSA4S30POQ3.uasset'
+[2023.10.18-11.00.40:332][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/RS/KW559SDPKTXA5GB82HX6EF
+[2023.10.18-11.00.40:332][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/KW559SDPKTXA5GB82HX6EF74CDE5364F41BD123495F4982657CF38.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/6/RS/KW559SDPKTXA5GB82HX6EF.uasset'
+[2023.10.18-11.00.40:340][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/RU/KP3HZMYZJS9NOTW6E174BX
+[2023.10.18-11.00.40:340][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/KP3HZMYZJS9NOTW6E174BXBA1B30D446B9A7A3C1B5009F12830921.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/A/RU/KP3HZMYZJS9NOTW6E174BX.uasset'
+[2023.10.18-11.00.40:346][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/NA/Y4A4SJH8WLJ6YBP2H2257X
+[2023.10.18-11.00.40:347][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/Y4A4SJH8WLJ6YBP2H2257XA21B28E14507C9559D8C759E95C6B331.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/NA/Y4A4SJH8WLJ6YBP2H2257X.uasset'
+[2023.10.18-11.00.40:354][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/56/CU8607DRIZDRL3721P75JT
+[2023.10.18-11.00.40:354][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/CU8607DRIZDRL3721P75JTD52097CC4364D6AE690909A847EECE33.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/6/56/CU8607DRIZDRL3721P75JT.uasset'
+[2023.10.18-11.00.40:361][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/II/EAPHRG2ZAA07Z3XADIC9B4
+[2023.10.18-11.00.40:361][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/EAPHRG2ZAA07Z3XADIC9B48D9DE72A4D882A1A3B6F0FAAB18BEC78.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/A/II/EAPHRG2ZAA07Z3XADIC9B4.uasset'
+[2023.10.18-11.00.40:368][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/4E/4OHZ0C35XEIJLWB1IYBD43
+[2023.10.18-11.00.40:368][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/4OHZ0C35XEIJLWB1IYBD43A6424DCC4DF2F1C1F800CE8E13EE9ADA.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/E/4E/4OHZ0C35XEIJLWB1IYBD43.uasset'
+[2023.10.18-11.00.40:375][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/X8/2HB5NJS9KABOK0SFDM3QEX
+[2023.10.18-11.00.40:375][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/2HB5NJS9KABOK0SFDM3QEXF9C7211D4022DC4E9D552F833F68D52A.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/X8/2HB5NJS9KABOK0SFDM3QEX.uasset'
+[2023.10.18-11.00.40:382][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/4/ZA/3AOQQ4ARIK1LVMPHX1BD8F
+[2023.10.18-11.00.40:382][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/3AOQQ4ARIK1LVMPHX1BD8F639DDC724A0453B65EB80E90204AD681.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/4/ZA/3AOQQ4ARIK1LVMPHX1BD8F.uasset'
+[2023.10.18-11.00.40:391][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/C7/G87GXJ9QBQGTW5OS9QJDCF
+[2023.10.18-11.00.40:391][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/G87GXJ9QBQGTW5OS9QJDCF830A22E34E09D9B74C41FCB57972C80D.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/C7/G87GXJ9QBQGTW5OS9QJDCF.uasset'
+[2023.10.18-11.00.40:398][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/A/2R/7JDHWJJCBN9WJGW25FRQIY
+[2023.10.18-11.00.40:398][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/7JDHWJJCBN9WJGW25FRQIY5D1E67A345128EC5A53853A842B130CA.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/A/2R/7JDHWJJCBN9WJGW25FRQIY.uasset'
+[2023.10.18-11.00.40:405][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/GU/Y5BB1CUEM17Y8WR5RJK87Q
+[2023.10.18-11.00.40:405][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/Y5BB1CUEM17Y8WR5RJK87QB49E01114503384C0802E78E1C189886.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/9/GU/Y5BB1CUEM17Y8WR5RJK87Q.uasset'
+[2023.10.18-11.00.40:412][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/DD/WIWRAPURKJZ33EJGH20IVM
+[2023.10.18-11.00.40:412][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/WIWRAPURKJZ33EJGH20IVMC5A3A2DC46DBB6E01B1ED1B1F445317B.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/D/DD/WIWRAPURKJZ33EJGH20IVM.uasset'
+[2023.10.18-11.00.40:419][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/4W/UWI92CZEI6Z9D8HSY92TMV
+[2023.10.18-11.00.40:419][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/UWI92CZEI6Z9D8HSY92TMVF0B869DE4BCF7FAC568744A24981451E.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/C/4W/UWI92CZEI6Z9D8HSY92TMV.uasset'
+[2023.10.18-11.00.40:426][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/VN/X5CTR1PPUL6VOBIAUZU3CQ
+[2023.10.18-11.00.40:426][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/X5CTR1PPUL6VOBIAUZU3CQB7C80DFD40C2422763EC769924BBDF16.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/VN/X5CTR1PPUL6VOBIAUZU3CQ.uasset'
+[2023.10.18-11.00.40:433][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/UT/C1NXFT3445IHQFSW27W70Q
+[2023.10.18-11.00.40:433][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/C1NXFT3445IHQFSW27W70Q28B9B08D411AB2388BEC05923BB50DA3.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/UT/C1NXFT3445IHQFSW27W70Q.uasset'
+[2023.10.18-11.00.40:440][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/C2/EIJBPFIKPO1FSHAENCRN2X
+[2023.10.18-11.00.40:440][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/EIJBPFIKPO1FSHAENCRN2XB0D3215D488F708375209C945B8FA024.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/6/C2/EIJBPFIKPO1FSHAENCRN2X.uasset'
+[2023.10.18-11.00.40:447][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/9G/5ZRQXEVJ1P3XE1NK1LXIZT
+[2023.10.18-11.00.40:447][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/5ZRQXEVJ1P3XE1NK1LXIZTE605B92846594EC476591A8BDB489044.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/C/9G/5ZRQXEVJ1P3XE1NK1LXIZT.uasset'
+[2023.10.18-11.00.40:454][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/UJ/JHM13ID7U6YAYOERUKZ8QH
+[2023.10.18-11.00.40:455][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/JHM13ID7U6YAYOERUKZ8QH43F5769E4E11F83F21BFB39DF69CD20A.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/UJ/JHM13ID7U6YAYOERUKZ8QH.uasset'
+[2023.10.18-11.00.40:462][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/18/7BYMR5FG4AK0AN0Q277EDR
+[2023.10.18-11.00.40:462][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/7BYMR5FG4AK0AN0Q277EDRB778E54B4D64C898C28969874DC5BCC6.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/18/7BYMR5FG4AK0AN0Q277EDR.uasset'
+[2023.10.18-11.00.40:469][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/7T/2DXGKDNGQ8FKW1PG2WTROB
+[2023.10.18-11.00.40:469][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/2DXGKDNGQ8FKW1PG2WTROB910B4DE0487468441996508D9A0BA9DB.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/7T/2DXGKDNGQ8FKW1PG2WTROB.uasset'
+[2023.10.18-11.00.40:476][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/9P/GD27R35XAEXG8X6UPLPM26
+[2023.10.18-11.00.40:476][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/GD27R35XAEXG8X6UPLPM26FCCE860D4C25A17A95EA1EBEAD1DA136.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/9P/GD27R35XAEXG8X6UPLPM26.uasset'
+[2023.10.18-11.00.40:483][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/ZD/FNWCTJEHDIASLCBHKFBVNH
+[2023.10.18-11.00.40:483][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/FNWCTJEHDIASLCBHKFBVNHA23B6D8547EBF984C523979B2FC127C4.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/6/ZD/FNWCTJEHDIASLCBHKFBVNH.uasset'
+[2023.10.18-11.00.40:490][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/F/0Z/PW3S7FZAH6VYNV0KAT46G7
+[2023.10.18-11.00.40:490][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/PW3S7FZAH6VYNV0KAT46G7322649A6461031E42C1435B909E614E2.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/F/0Z/PW3S7FZAH6VYNV0KAT46G7.uasset'
+[2023.10.18-11.00.40:492][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/ZW/F7DP3UV8G2TTPTKI1E168I
+[2023.10.18-11.00.40:492][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/F7DP3UV8G2TTPTKI1E168IB73353B248944CF64FA45FA3EBC59DED.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/ZW/F7DP3UV8G2TTPTKI1E168I.uasset'
+[2023.10.18-11.00.40:499][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/6T/VBBWC65FV0X4PBF3PONLNU
+[2023.10.18-11.00.40:500][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/VBBWC65FV0X4PBF3PONLNU8D9F219A4B5CEA5A31A687AC3E5D0B4C.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/C/6T/VBBWC65FV0X4PBF3PONLNU.uasset'
+[2023.10.18-11.00.40:505][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/03/6B9OCJG2HWVPHTXG81EQ0X
+[2023.10.18-11.00.40:505][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/6B9OCJG2HWVPHTXG81EQ0X2730BF6C48E7116F57D0C5A8354CBB79.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/6/03/6B9OCJG2HWVPHTXG81EQ0X.uasset'
+[2023.10.18-11.00.40:510][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/IL/QEAWAPG00ELBQ6YTSW5HZA
+[2023.10.18-11.00.40:510][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/QEAWAPG00ELBQ6YTSW5HZA07E410BF4008F451D96C2D8FEF16DA21.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/2/IL/QEAWAPG00ELBQ6YTSW5HZA.uasset'
+[2023.10.18-11.00.40:516][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/7/KS/PQSGNT82T45MXSMGS8VNKW
+[2023.10.18-11.00.40:516][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/PQSGNT82T45MXSMGS8VNKW099B6EDD40B64099EE7D98BD7651F204.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/7/KS/PQSGNT82T45MXSMGS8VNKW.uasset'
+[2023.10.18-11.00.40:521][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/EQ/6PX1D1O35EMNGA4K5KDXNB
+[2023.10.18-11.00.40:521][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/6PX1D1O35EMNGA4K5KDXNB189EF30542A9D8116FA3C4A83657467E.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/C/EQ/6PX1D1O35EMNGA4K5KDXNB.uasset'
+[2023.10.18-11.00.40:526][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/WK/1Z2XE8QZNR3Y2FCP7WFSNZ
+[2023.10.18-11.00.40:526][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/1Z2XE8QZNR3Y2FCP7WFSNZ9B4CFDA64DC5530E02F554A8DB6E6474.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/WK/1Z2XE8QZNR3Y2FCP7WFSNZ.uasset'
+[2023.10.18-11.00.40:532][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/R7/BKWV3BW3HUNYQ63GCHHA3T
+[2023.10.18-11.00.40:532][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/BKWV3BW3HUNYQ63GCHHA3TD4F036AC43A0E087019D308EB126EE89.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/R7/BKWV3BW3HUNYQ63GCHHA3T.uasset'
+[2023.10.18-11.00.40:537][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/DZ/KKBUDN33PKCTHDEC5YJKSX
+[2023.10.18-11.00.40:537][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/KKBUDN33PKCTHDEC5YJKSXC83B012F41610387F7DE8F94986F334E.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/C/DZ/KKBUDN33PKCTHDEC5YJKSX.uasset'
+[2023.10.18-11.00.40:542][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/OT/ZGOBNOT6ZZYJY4PYSRX80X
+[2023.10.18-11.00.40:542][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/ZGOBNOT6ZZYJY4PYSRX80X78D0122A4D7AA0FB7A07CEA36BA96295.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/9/OT/ZGOBNOT6ZZYJY4PYSRX80X.uasset'
+[2023.10.18-11.00.40:548][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/NP/BHNE60OYQ1GFPUCMEBKTJK
+[2023.10.18-11.00.40:548][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/BHNE60OYQ1GFPUCMEBKTJK3F3FAE1F47BC8D733BCFD1BC8B07F0CF.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/0/NP/BHNE60OYQ1GFPUCMEBKTJK.uasset'
+[2023.10.18-11.00.40:553][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/4/NK/PCHJ4MM2F7V2IGOHW3JGTH
+[2023.10.18-11.00.40:553][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/PCHJ4MM2F7V2IGOHW3JGTHC21DB2094D082D42A6F6098D2B7445E2.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/4/NK/PCHJ4MM2F7V2IGOHW3JGTH.uasset'
+[2023.10.18-11.00.40:558][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/5/FB/A6M2ABHFRMF63RBW2EYL5R
+[2023.10.18-11.00.40:558][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/A6M2ABHFRMF63RBW2EYL5R01E12D244B385A8EEBA3B28179203E07.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/5/FB/A6M2ABHFRMF63RBW2EYL5R.uasset'
+[2023.10.18-11.00.40:564][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/4Q/O5WD7N0CHPZ6HCR8JDMJKN
+[2023.10.18-11.00.40:564][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/O5WD7N0CHPZ6HCR8JDMJKN109DF5834C7A6AC973DE1C822F1A4AC4.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/4Q/O5WD7N0CHPZ6HCR8JDMJKN.uasset'
+[2023.10.18-11.00.40:569][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/5/BT/0Y6N4H4GRHOQI657RCULRS
+[2023.10.18-11.00.40:569][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/0Y6N4H4GRHOQI657RCULRS030911DE443FB21D72658B8923C9253D.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/5/BT/0Y6N4H4GRHOQI657RCULRS.uasset'
+[2023.10.18-11.00.40:575][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/G4/FBZTBKVMGRPYI9D6QN06S1
+[2023.10.18-11.00.40:575][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/FBZTBKVMGRPYI9D6QN06S1DCC08B144E20C617176DE7B1132FA32A.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/G4/FBZTBKVMGRPYI9D6QN06S1.uasset'
+[2023.10.18-11.00.40:580][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/WR/24J1SVL7YNTQEPQP3AQMI0
+[2023.10.18-11.00.40:580][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/24J1SVL7YNTQEPQP3AQMI0CF28D44E460F5EAD3D230ABE989625DD.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/D/WR/24J1SVL7YNTQEPQP3AQMI0.uasset'
+[2023.10.18-11.00.40:588][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/QV/4WRVRZN7QGLUSLDJXV7W5D
+[2023.10.18-11.00.40:588][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/4WRVRZN7QGLUSLDJXV7W5D7BFEBDB148F97324743442ABFB664AD9.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/QV/4WRVRZN7QGLUSLDJXV7W5D.uasset'
+[2023.10.18-11.00.40:594][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/O4/SYXX8EASQX81EDZP03ISMM
+[2023.10.18-11.00.40:594][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/SYXX8EASQX81EDZP03ISMM242D04EA495316AE88B3A5B60B2549B3.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/0/O4/SYXX8EASQX81EDZP03ISMM.uasset'
+[2023.10.18-11.00.40:600][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/7/86/6FN7M43QUOZDWKWMQ5TNZR
+[2023.10.18-11.00.40:600][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/6FN7M43QUOZDWKWMQ5TNZRCF9CF0464743443568293DAA22BAEB32.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/7/86/6FN7M43QUOZDWKWMQ5TNZR.uasset'
+[2023.10.18-11.00.40:605][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/ZI/J6Y0NQDAJUSX9HG7ETQ8MO
+[2023.10.18-11.00.40:605][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/J6Y0NQDAJUSX9HG7ETQ8MOE11CB83F44A90FBF70DE3FA6B52DBECB.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/ZI/J6Y0NQDAJUSX9HG7ETQ8MO.uasset'
+[2023.10.18-11.00.40:611][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/DH/EQZYM5SUO5CZU8XNK7SBCN
+[2023.10.18-11.00.40:611][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/EQZYM5SUO5CZU8XNK7SBCNC7AEA495486040DAEFDC40BFC9272C32.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/0/DH/EQZYM5SUO5CZU8XNK7SBCN.uasset'
+[2023.10.18-11.00.40:616][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/4/RQ/W7O4XLSZVDQ2K8U4DDN523
+[2023.10.18-11.00.40:616][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/W7O4XLSZVDQ2K8U4DDN523774FBFE34F1F65C2F8A8F097D6741E83.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/4/RQ/W7O4XLSZVDQ2K8U4DDN523.uasset'
+[2023.10.18-11.00.40:621][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/FN/B29HIYP10PSIR457JSJUZU
+[2023.10.18-11.00.40:622][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/B29HIYP10PSIR457JSJUZU2138629949F741AEA10C8C9D7C97FD59.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/C/FN/B29HIYP10PSIR457JSJUZU.uasset'
+[2023.10.18-11.00.40:627][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/5/5S/WGY3KO0PFFCZJZJ65G7JON
+[2023.10.18-11.00.40:627][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/WGY3KO0PFFCZJZJ65G7JOND68B3B354A11CB6C4B7451B7208BFADE.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/5/5S/WGY3KO0PFFCZJZJ65G7JON.uasset'
+[2023.10.18-11.00.40:632][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/K2/YKSRJ3TFUQIS81026F8Y0T
+[2023.10.18-11.00.40:632][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/YKSRJ3TFUQIS81026F8Y0T7FBEA555464F8C8A092BA3999C3E6BAC.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/E/K2/YKSRJ3TFUQIS81026F8Y0T.uasset'
+[2023.10.18-11.00.40:638][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/SY/OMSZKKKAI6QRK4W0ZO8ZQA
+[2023.10.18-11.00.40:638][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/OMSZKKKAI6QRK4W0ZO8ZQA88BD6C574007381499DE5C8F01BEDA7C.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/SY/OMSZKKKAI6QRK4W0ZO8ZQA.uasset'
+[2023.10.18-11.00.40:643][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/MB/4Z0ACAFEPT1NXHTWI4LI4V
+[2023.10.18-11.00.40:643][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/4Z0ACAFEPT1NXHTWI4LI4VD6A868F948E9FC403CA5A1A4AE488F62.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/MB/4Z0ACAFEPT1NXHTWI4LI4V.uasset'
+[2023.10.18-11.00.40:648][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/57/UB1FCAO2QWTDL4EFBRX23R
+[2023.10.18-11.00.40:648][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/UB1FCAO2QWTDL4EFBRX23RC1F860954C8DB217C7CF379338CB1661.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/2/57/UB1FCAO2QWTDL4EFBRX23R.uasset'
+[2023.10.18-11.00.40:654][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/6/KF/6JF8P83H1JW569HWKNDBLX
+[2023.10.18-11.00.40:654][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/6JF8P83H1JW569HWKNDBLX1B8494C64F76538C97D14C954182C674.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/6/KF/6JF8P83H1JW569HWKNDBLX.uasset'
+[2023.10.18-11.00.40:659][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/H7/0EVUA3KO1A4O28VHKOGFHR
+[2023.10.18-11.00.40:659][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/0EVUA3KO1A4O28VHKOGFHR593908F64FECFA330DC774B8A90E0CF0.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/H7/0EVUA3KO1A4O28VHKOGFHR.uasset'
+[2023.10.18-11.00.40:665][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/8E/KPQFG6II3VX66UOUKVB11T
+[2023.10.18-11.00.40:665][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/KPQFG6II3VX66UOUKVB11T61D679CC443C2DFCF7AA27852B5D078A.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/9/8E/KPQFG6II3VX66UOUKVB11T.uasset'
+[2023.10.18-11.00.40:671][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/4/VP/LOO4TF6IX5OGPA1SSW6L6O
+[2023.10.18-11.00.40:671][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/LOO4TF6IX5OGPA1SSW6L6OA64ED5724C164F1F9F9594A5F0904F86.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/4/VP/LOO4TF6IX5OGPA1SSW6L6O.uasset'
+[2023.10.18-11.00.40:677][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/VW/VQIMUP3EWTXXFCTKMNL4A2
+[2023.10.18-11.00.40:677][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/VQIMUP3EWTXXFCTKMNL4A2304EA45B4A243C611E7ED39B66CEB332.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/C/VW/VQIMUP3EWTXXFCTKMNL4A2.uasset'
+[2023.10.18-11.00.40:684][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/VF/1CASQR6IP3ETHJI6UTKKEA
+[2023.10.18-11.00.40:684][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/1CASQR6IP3ETHJI6UTKKEAAD7321A44B5D2030F84D49A816B5C656.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/VF/1CASQR6IP3ETHJI6UTKKEA.uasset'
+[2023.10.18-11.00.40:691][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/NH/SU3765BFEQQIN45SQGXS10
+[2023.10.18-11.00.40:691][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/SU3765BFEQQIN45SQGXS10AE43EE1D48AC21AA4905CD83EB814282.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/D/NH/SU3765BFEQQIN45SQGXS10.uasset'
+[2023.10.18-11.00.40:697][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/MA/EPPJWEW440D5RUKNUP3RNJ
+[2023.10.18-11.00.40:697][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/EPPJWEW440D5RUKNUP3RNJ4B9909FA4016C0FCCD19E6B0D6732DE1.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/MA/EPPJWEW440D5RUKNUP3RNJ.uasset'
+[2023.10.18-11.00.40:703][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/E6/CZT0ZU4K0ILLXQDLXYB9QC
+[2023.10.18-11.00.40:703][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/CZT0ZU4K0ILLXQDLXYB9QC2BFCC6AC4C8A87AEC1309CA11B4A7896.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/E6/CZT0ZU4K0ILLXQDLXYB9QC.uasset'
+[2023.10.18-11.00.40:708][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/EX/JB4HR1TB4ECXIQEHUFN46X
+[2023.10.18-11.00.40:708][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/JB4HR1TB4ECXIQEHUFN46XD0992BCD4A2AE07692FAAF8CACD8EE7C.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/EX/JB4HR1TB4ECXIQEHUFN46X.uasset'
+[2023.10.18-11.00.40:714][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/IW/H7RABA5O1U8NJ9ZVZOBSF7
+[2023.10.18-11.00.40:714][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/H7RABA5O1U8NJ9ZVZOBSF7C379C9EC4F388A47FA9DC6BA1527A5B9.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/D/IW/H7RABA5O1U8NJ9ZVZOBSF7.uasset'
+[2023.10.18-11.00.40:719][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/FK/19HKGJZAIWS0O9K1X3S7ZW
+[2023.10.18-11.00.40:719][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/19HKGJZAIWS0O9K1X3S7ZW53535E724D98F369DB3D748A2A3E8D8E.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/2/FK/19HKGJZAIWS0O9K1X3S7ZW.uasset'
+[2023.10.18-11.00.40:725][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/C/TY/5HPXLEG8CO562HIWMX5NX7
+[2023.10.18-11.00.40:725][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/5HPXLEG8CO562HIWMX5NX73A0A87904AE99F7CC003DBB7ACFF65A5.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/C/TY/5HPXLEG8CO562HIWMX5NX7.uasset'
+[2023.10.18-11.00.40:732][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/ZV/7ANPVHYVI1SW1XI6NASM4F
+[2023.10.18-11.00.40:732][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/7ANPVHYVI1SW1XI6NASM4F90BD439B48E21E1573A764AF0E18B46C.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/ZV/7ANPVHYVI1SW1XI6NASM4F.uasset'
+[2023.10.18-11.00.40:738][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/1/TM/H5VYH7SR5T1PNLBM0VSE39
+[2023.10.18-11.00.40:738][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/H5VYH7SR5T1PNLBM0VSE3928B621D548AC7B1D7BD455A1B50C2F16.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/1/TM/H5VYH7SR5T1PNLBM0VSE39.uasset'
+[2023.10.18-11.00.40:744][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/2M/MYI3NTCAEEXJUGJGL2WHKS
+[2023.10.18-11.00.40:745][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/MYI3NTCAEEXJUGJGL2WHKSC1AD434344CACB148DA52393CF00E37D.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/9/2M/MYI3NTCAEEXJUGJGL2WHKS.uasset'
+[2023.10.18-11.00.40:751][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/2/RP/FSJQNJOYIEA274933T87UF
+[2023.10.18-11.00.40:752][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/FSJQNJOYIEA274933T87UFEF44037349960361F56C4F9020DC5C31.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/2/RP/FSJQNJOYIEA274933T87UF.uasset'
+[2023.10.18-11.00.40:759][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/WH/PQBRQ8DWNXRQSVNC8GZZRI
+[2023.10.18-11.00.40:759][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/PQBRQ8DWNXRQSVNC8GZZRI15D7C91049FC597A49AA01BFE8E66A9A.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/E/WH/PQBRQ8DWNXRQSVNC8GZZRI.uasset'
+[2023.10.18-11.00.40:765][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/FX/C5PS3VROFDOAJB83KH40DK
+[2023.10.18-11.00.40:765][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/C5PS3VROFDOAJB83KH40DK9366072F46D298403A7E839FE7C7F1EC.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/FX/C5PS3VROFDOAJB83KH40DK.uasset'
+[2023.10.18-11.00.40:772][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/4F/35N00CWO8PCGVAWKS5A1S0
+[2023.10.18-11.00.40:772][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/35N00CWO8PCGVAWKS5A1S0411D351D45354FDC6F5C76A975804245.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/4F/35N00CWO8PCGVAWKS5A1S0.uasset'
+[2023.10.18-11.00.40:779][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/YN/5TZMTVLDP6IGQ7VLGEJJKP
+[2023.10.18-11.00.40:779][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/5TZMTVLDP6IGQ7VLGEJJKP60224D824D5733057E4C35B3ECD35FA9.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/YN/5TZMTVLDP6IGQ7VLGEJJKP.uasset'
+[2023.10.18-11.00.40:791][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/3Q/M024JV4AZ30UYXLTGV5ETH
+[2023.10.18-11.00.40:791][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/M024JV4AZ30UYXLTGV5ETHD05D1AF1483506908AE98C95AFA30A5E.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/3Q/M024JV4AZ30UYXLTGV5ETH.uasset'
+[2023.10.18-11.00.40:797][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/8/YP/86X89FT50T6ZAHXF6H0F17
+[2023.10.18-11.00.40:797][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/86X89FT50T6ZAHXF6H0F17635CBDBF40E14371570431A49DFD7329.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/8/YP/86X89FT50T6ZAHXF6H0F17.uasset'
+[2023.10.18-11.00.40:804][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/7/HX/SNN6TWLFCAVFKEA5VR87C9
+[2023.10.18-11.00.40:804][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/SNN6TWLFCAVFKEA5VR87C9DCF793724291233847DC2E96197B7389.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/7/HX/SNN6TWLFCAVFKEA5VR87C9.uasset'
+[2023.10.18-11.00.40:810][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/WS/VVRRSNM4CUWTQHMLW6BJPU
+[2023.10.18-11.00.40:810][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/VVRRSNM4CUWTQHMLW6BJPU62CD4B0B4E7088CA614F4A8C04AB173F.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/WS/VVRRSNM4CUWTQHMLW6BJPU.uasset'
+[2023.10.18-11.00.40:817][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/VA/EX41YI3MI2PB84TBKGBRM0
+[2023.10.18-11.00.40:817][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/EX41YI3MI2PB84TBKGBRM00334A15F46110EAFDCC889A9AAE63B6B.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/9/VA/EX41YI3MI2PB84TBKGBRM0.uasset'
+[2023.10.18-11.00.40:823][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/4/8D/Y881UOQQSR584701QQE162
+[2023.10.18-11.00.40:823][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/Y881UOQQSR584701QQE1621409D31846FB36298FE92F80274FED57.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/4/8D/Y881UOQQSR584701QQE162.uasset'
+[2023.10.18-11.00.40:829][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/3/R6/1BZ573QQ33WKL8TP5P0B27
+[2023.10.18-11.00.40:829][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/1BZ573QQ33WKL8TP5P0B2714CC118F414F21D32F49C7AC93F8A07C.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/3/R6/1BZ573QQ33WKL8TP5P0B27.uasset'
+[2023.10.18-11.00.40:836][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/0H/M3E95DPM20OF8P26HON3N5
+[2023.10.18-11.00.40:836][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/M3E95DPM20OF8P26HON3N543F004D348892028D72A0181BA7DD123.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/0/0H/M3E95DPM20OF8P26HON3N5.uasset'
+[2023.10.18-11.00.40:843][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/7/PE/MSSYQS2628FGQ8G4V4XMKU
+[2023.10.18-11.00.40:843][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/MSSYQS2628FGQ8G4V4XMKU2466BA344E51B65D53796C9C95E1E71A.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/7/PE/MSSYQS2628FGQ8G4V4XMKU.uasset'
+[2023.10.18-11.00.40:850][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/9/0J/F832P6KBANG2KDS6HTS9E9
+[2023.10.18-11.00.40:850][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/F832P6KBANG2KDS6HTS9E94BA418D34ABBA8FAE96C079FC3FF2E95.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/9/0J/F832P6KBANG2KDS6HTS9E9.uasset'
+[2023.10.18-11.00.40:855][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/D/0K/BLNYI45Z34ZK7XIFH08BEN
+[2023.10.18-11.00.40:855][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/BLNYI45Z34ZK7XIFH08BENABF23D8841BC5B9411D758802324E8B9.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/D/0K/BLNYI45Z34ZK7XIFH08BEN.uasset'
+[2023.10.18-11.00.40:862][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/3O/2OM742N13XO1LU3MKLECNM
+[2023.10.18-11.00.40:862][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/2OM742N13XO1LU3MKLECNM725422F44C1669986CFD598CEDC8CB3F.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/3O/2OM742N13XO1LU3MKLECNM.uasset'
+[2023.10.18-11.00.40:869][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/0/IF/RILI4K23XHWX8CLI3NYG8C
+[2023.10.18-11.00.40:869][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/RILI4K23XHWX8CLI3NYG8CA50AF1214C5491508546618798B16896.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/0/IF/RILI4K23XHWX8CLI3NYG8C.uasset'
+[2023.10.18-11.00.40:875][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/E/Q4/EFYV8344BLVD450JJFFKEG
+[2023.10.18-11.00.40:875][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/EFYV8344BLVD450JJFFKEGA3E125BD4056BD7FFE5FCAA543EC75EC.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/E/Q4/EFYV8344BLVD450JJFFKEG.uasset'
+[2023.10.18-11.00.40:882][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TestLevel/B/K8/BEK6IU3ULPCDTJXB2CJW4S
+[2023.10.18-11.00.40:882][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/BEK6IU3ULPCDTJXB2CJW4SEB7821F3415809DCA7A3268B177E0550.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/__ExternalActors__/TestLevel/B/K8/BEK6IU3ULPCDTJXB2CJW4S.uasset'
+[2023.10.18-11.00.40:885][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 875 ms (total: 1.06 sec)
+[2023.10.18-11.00.40:891][526]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/TestLevel_HLOD0_Instancing
+/Game/__ExternalActors__/TestLevel/D/KN/9R9P0RDFT42JHZ7D5NAFN0
+/Game/__ExternalObjects__/TestLevel/8/EC/MQQBNZPPNBWZ3ETRE7HU8A
+/Game/__ExternalObjects__/TestLevel/E/8L/3BHHXYUBR5XYPEWAZEUFDW
+/Game/__ExternalObjects__/TestLevel/A/ZO/4WVR7E8KX2WIM7AJ3S7A70
+/Game/__ExternalObjects__/TestLevel/7/IE/7GJMEG9VSCHPGHFJM648P6
+/Game/__ExternalObjects__/TestLevel/C/EG/XGQKI8TLOYSQO69G2FA9PE
+/Game/__ExternalActors__/TestLevel/9/82/VJID8KUAH6GS6ZKKDJ8WMG
+/Game/__ExternalActors__/TestLevel/1/AO/8BNTBG7BVWMNJHLLW5V85F
+/Game/__ExternalActors__/TestLevel/0/B9/7FKO69CTG8V9SJRJ2XMGWS
+/Game/__ExternalActors__/TestLevel/3/SI/Z39O8X4ENU2QQZNQC9MDTC
+/Game/__ExternalActors__/TestLevel/1/NE/60AXFWT7AY1G8OW498A0NQ
+/Game/__ExternalActors__/TestLevel/9/S3/1X1458TOL3DE211JNI4J7Q
+/Game/__ExternalActors__/TestLevel/B/P3/M6VGE5XFL6KD6FTERF5YVU
+/Game/__ExternalActors__/TestLevel/D/LC/P1C7IDNV135T9APVJZDE2B
+/Game/__ExternalActors__/TestLevel/1/Y3/TWOFFRRVY9VSMSTV5UG1G1
+/Game/__ExternalActors__/TestLevel/D/VU/TG077VXWFGCS3WSZDUFDI3
+/Game/__ExternalActors__/TestLevel/1/1Z/9X9Q7CO0ZENLZDNWU9ANRF
+/Game/__ExternalActors__/TestLevel/2/5N/JXXSFIWDOOD07TJ8E1EHF1
+/Game/__ExternalActors__/TestLevel/1/SN/ITRU9VA1L44HXM8R5R9QVG
+/Game/__ExternalActors__/TestLevel/1/FT/HTOA4C6V8E92B9VY1EQ051
+/Game/__ExternalActors__/TestLevel/B/CA/T566HK2FVKNADZGP7X8Y6X
+/Game/__ExternalActors__/TestLevel/0/4W/KVY8MIT5LQFF3I505L5EAD
+/Game/__ExternalActors__/TestLevel/7/YJ/GHU8R9O1BNXL96VD22EONT
+/Game/__ExternalActors__/TestLevel/B/P9/M0AB4YJ5PZBLS487BAE5TO
+/Game/__ExternalActors__/TestLevel/3/V0/GTTXN0JUQ3SCLMAZFQ74PW
+/Game/__ExternalActors__/TestLevel/B/AM/SQQBD0BMD4PNPD5WSFUJT1
+/Game/__ExternalActors__/TestLevel/E/73/CYGWGY33NPHZTWZ61AJFIX
+/Game/__ExternalActors__/TestLevel/B/6C/MT6ESU0IUY4TWKZTIMNW6S
+/Game/__ExternalActors__/TestLevel/1/18/I6GJ2FWOQGJ8YWBCFTIZDO
+/Game/__ExternalActors__/TestLevel/A/DI/RMPMO9OXGIRCHTRWBCH98D
+/Game/__ExternalActors__/TestLevel/8/KQ/TP5BH1TLR3C2ENYBDRYVMW
+/Game/__ExternalActors__/TestLevel/D/C2/7AK1G9DMJC7P4D8VGDMVLS
+/Game/__ExternalActors__/TestLevel/D/ZO/D6KH4NSFFTH42BILVC3I65
+/Game/__ExternalActors__/TestLevel/6/F2/WD24BHM7BP69X6DTO0Q6N4
+/Game/__ExternalActors__/TestLevel/A/0E/DYBWDNJQQY6XDV9T7BS9PR
+/Game/__ExternalActors__/TestLevel/3/8X/VFOOBEI4AI1XX0FH87WQCL
+/Game/__ExternalActors__/TestLevel/6/02/YD2D72PL1NQR5AVVN0A6T1
+/Game/__ExternalActors__/TestLevel/5/3F/JDNAGE0I5VOCRA39RY0V8C
+/Game/__ExternalActors__/TestLevel/8/DX/ZQ8SST11X5NF91JUSLE5PT
+/Game/__ExternalActors__/TestLevel/9/UD/QS56GPQM2O7LUV9UBT0U95
+/Game/__ExternalActors__/TestLevel/3/CV/PHYJUGHUHNSHE0LPKMD6KW
+/Game/__ExternalActors__/TestLevel/A/KO/MB2SL64WYLS2Q4U6FRANOX
+/Game/__ExternalActors__/TestLevel/F/2I/R38TIY0LVNPI5SHXAEJV1B
+/Game/__ExternalActors__/TestLevel/A/4W/70178Q9KBJY6MRQP3XA625
+/Game/__ExternalActors__/TestLevel/A/JO/ICE0IEPD2XF7YJ7QSPSMS9
+/Game/__ExternalActors__/TestLevel/E/IC/HPLVSKHGYFRK0OKIO3FKTM
+/Game/__ExternalActors__/TestLevel/C/FL/3OHEB34NCTNIM0E7KNSKJ3
+/Game/__ExternalActors__/TestLevel/A/LK/L6Y7T7KA2Z75KPTJG7YAVU
+/Game/__ExternalActors__/TestLevel/8/5X/R97DT7DLMXS5FXW8HF1G6J
+/Game/__ExternalActors__/TestLevel/6/AA/ZN71SX57YVNMBLC4U42TQK
+/Game/__ExternalActors__/TestLevel/7/EO/8BHYJKKJ7FCZG69JFC3OIE
+/Game/__ExternalActors__/TestLevel/1/05/RCM552Z2X9S4FSAZMYGIW2
+/Game/__ExternalActors__/TestLevel/0/7P/FO5YKNCWPZQDYOO3Q2I1C2
+/Game/__ExternalActors__/TestLevel/7/DI/0XZPDVKHYS291KFB0NRPQX
+/Game/__ExternalActors__/TestLevel/0/AG/1SX5LH34NN7WSA4S30POQ3
+/Game/__ExternalActors__/TestLevel/6/RS/KW559SDPKTXA5GB82HX6EF
+/Game/__ExternalActors__/TestLevel/A/RU/KP3HZMYZJS9NOTW6E174BX
+/Game/__ExternalActors__/TestLevel/3/NA/Y4A4SJH8WLJ6YBP2H2257X
+/Game/__ExternalActors__/TestLevel/6/56/CU8607DRIZDRL3721P75JT
+/Game/__ExternalActors__/TestLevel/A/II/EAPHRG2ZAA07Z3XADIC9B4
+/Game/__ExternalActors__/TestLevel/E/4E/4OHZ0C35XEIJLWB1IYBD43
+/Game/__ExternalActors__/TestLevel/1/X8/2HB5NJS9KABOK0SFDM3QEX
+/Game/__ExternalActors__/TestLevel/4/ZA/3AOQQ4ARIK1LVMPHX1BD8F
+/Game/__ExternalActors__/TestLevel/8/C7/G87GXJ9QBQGTW5OS9QJDCF
+/Game/__ExternalActors__/TestLevel/A/2R/7JDHWJJCBN9WJGW25FRQIY
+/Game/__ExternalActors__/TestLevel/9/GU/Y5BB1CUEM17Y8WR5RJK87Q
+/Game/__ExternalActors__/TestLevel/D/DD/WIWRAPURKJZ33EJGH20IVM
+/Game/__ExternalActors__/TestLevel/C/4W/UWI92CZEI6Z9D8HSY92TMV
+/Game/__ExternalActors__/TestLevel/1/VN/X5CTR1PPUL6VOBIAUZU3CQ
+/Game/__ExternalActors__/TestLevel/8/UT/C1NXFT3445IHQFSW27W70Q
+/Game/__ExternalActors__/TestLevel/6/C2/EIJBPFIKPO1FSHAENCRN2X
+/Game/__ExternalActors__/TestLevel/C/9G/5ZRQXEVJ1P3XE1NK1LXIZT
+/Game/__ExternalActors__/TestLevel/3/UJ/JHM13ID7U6YAYOERUKZ8QH
+/Game/__ExternalActors__/TestLevel/8/18/7BYMR5FG4AK0AN0Q277EDR
+/Game/__ExternalActors__/TestLevel/8/7T/2DXGKDNGQ8FKW1PG2WTROB
+/Game/__ExternalActors__/TestLevel/8/9P/GD27R35XAEXG8X6UPLPM26
+/Game/__ExternalActors__/TestLevel/6/ZD/FNWCTJEHDIASLCBHKFBVNH
+/Game/__ExternalActors__/TestLevel/F/0Z/PW3S7FZAH6VYNV0KAT46G7
+/Game/__ExternalActors__/TestLevel/3/ZW/F7DP3UV8G2TTPTKI1E168I
+/Game/__ExternalActors__/TestLevel/C/6T/VBBWC65FV0X4PBF3PONLNU
+/Game/__ExternalActors__/TestLevel/6/03/6B9OCJG2HWVPHTXG81EQ0X
+/Game/__ExternalActors__/TestLevel/2/IL/QEAWAPG00ELBQ6YTSW5HZA
+/Game/__ExternalActors__/TestLevel/7/KS/PQSGNT82T45MXSMGS8VNKW
+/Game/__ExternalActors__/TestLevel/C/EQ/6PX1D1O35EMNGA4K5KDXNB
+/Game/__ExternalActors__/TestLevel/1/WK/1Z2XE8QZNR3Y2FCP7WFSNZ
+/Game/__ExternalActors__/TestLevel/B/R7/BKWV3BW3HUNYQ63GCHHA3T
+/Game/__ExternalActors__/TestLevel/C/DZ/KKBUDN33PKCTHDEC5YJKSX
+/Game/__ExternalActors__/TestLevel/9/OT/ZGOBNOT6ZZYJY4PYSRX80X
+/Game/__ExternalActors__/TestLevel/0/NP/BHNE60OYQ1GFPUCMEBKTJK
+/Game/__ExternalActors__/TestLevel/4/NK/PCHJ4MM2F7V2IGOHW3JGTH
+/Game/__ExternalActors__/TestLevel/5/FB/A6M2ABHFRMF63RBW2EYL5R
+/Game/__ExternalActors__/TestLevel/1/4Q/O5WD7N0CHPZ6HCR8JDMJKN
+/Game/__ExternalActors__/TestLevel/5/BT/0Y6N4H4GRHOQI657RCULRS
+/Game/__ExternalActors__/TestLevel/8/G4/FBZTBKVMGRPYI9D6QN06S1
+/Game/__ExternalActors__/TestLevel/D/WR/24J1SVL7YNTQEPQP3AQMI0
+/Game/__ExternalActors__/TestLevel/1/QV/4WRVRZN7QGLUSLDJXV7W5D
+/Game/__ExternalActors__/TestLevel/0/O4/SYXX8EASQX81EDZP03ISMM
+/Game/__ExternalActors__/TestLevel/7/86/6FN7M43QUOZDWKWMQ5TNZR
+/Game/__ExternalActors__/TestLevel/3/ZI/J6Y0NQDAJUSX9HG7ETQ8MO
+/Game/__ExternalActors__/TestLevel/0/DH/EQZYM5SUO5CZU8XNK7SBCN
+/Game/__ExternalActors__/TestLevel/4/RQ/W7O4XLSZVDQ2K8U4DDN523
+/Game/__ExternalActors__/TestLevel/C/FN/B29HIYP10PSIR457JSJUZU
+/Game/__ExternalActors__/TestLevel/5/5S/WGY3KO0PFFCZJZJ65G7JON
+/Game/__ExternalActors__/TestLevel/E/K2/YKSRJ3TFUQIS81026F8Y0T
+/Game/__ExternalActors__/TestLevel/3/SY/OMSZKKKAI6QRK4W0ZO8ZQA
+/Game/__ExternalActors__/TestLevel/1/MB/4Z0ACAFEPT1NXHTWI4LI4V
+/Game/__ExternalActors__/TestLevel/2/57/UB1FCAO2QWTDL4EFBRX23R
+/Game/__ExternalActors__/TestLevel/6/KF/6JF8P83H1JW569HWKNDBLX
+/Game/__ExternalActors__/TestLevel/B/H7/0EVUA3KO1A4O28VHKOGFHR
+/Game/__ExternalActors__/TestLevel/9/8E/KPQFG6II3VX66UOUKVB11T
+/Game/__ExternalActors__/TestLevel/4/VP/LOO4TF6IX5OGPA1SSW6L6O
+/Game/__ExternalActors__/TestLevel/C/VW/VQIMUP3EWTXXFCTKMNL4A2
+/Game/__ExternalActors__/TestLevel/3/VF/1CASQR6IP3ETHJI6UTKKEA
+/Game/__ExternalActors__/TestLevel/D/NH/SU3765BFEQQIN45SQGXS10
+/Game/__ExternalActors__/TestLevel/3/MA/EPPJWEW440D5RUKNUP3RNJ
+/Game/__ExternalActors__/TestLevel/3/E6/CZT0ZU4K0ILLXQDLXYB9QC
+/Game/__ExternalActors__/TestLevel/8/EX/JB4HR1TB4ECXIQEHUFN46X
+/Game/__ExternalActors__/TestLevel/D/IW/H7RABA5O1U8NJ9ZVZOBSF7
+/Game/__ExternalActors__/TestLevel/2/FK/19HKGJZAIWS0O9K1X3S7ZW
+/Game/__ExternalActors__/TestLevel/C/TY/5HPXLEG8CO562HIWMX5NX7
+/Game/__ExternalActors__/TestLevel/8/ZV/7ANPVHYVI1SW1XI6NASM4F
+/Game/__ExternalActors__/TestLevel/1/TM/H5VYH7SR5T1PNLBM0VSE39
+/Game/__ExternalActors__/TestLevel/9/2M/MYI3NTCAEEXJUGJGL2WHKS
+/Game/__ExternalActors__/TestLevel/2/RP/FSJQNJOYIEA274933T87UF
+/Game/__ExternalActors__/TestLevel/E/WH/PQBRQ8DWNXRQSVNC8GZZRI
+/Game/__ExternalActors__/TestLevel/8/FX/C5PS3VROFDOAJB83KH40DK
+/Game/__ExternalActors__/TestLevel/3/4F/35N00CWO8PCGVAWKS5A1S0
+/Game/__ExternalActors__/TestLevel/B/YN/5TZMTVLDP6IGQ7VLGEJJKP
+/Game/__ExternalActors__/TestLevel/B/3Q/M024JV4AZ30UYXLTGV5ETH
+/Game/__ExternalActors__/TestLevel/8/YP/86X89FT50T6ZAHXF6H0F17
+/Game/__ExternalActors__/TestLevel/7/HX/SNN6TWLFCAVFKEA5VR87C9
+/Game/__ExternalActors__/TestLevel/3/WS/VVRRSNM4CUWTQHMLW6BJPU
+/Game/__ExternalActors__/TestLevel/9/VA/EX41YI3MI2PB84TBKGBRM0
+/Game/__ExternalActors__/TestLevel/4/8D/Y881UOQQSR584701QQE162
+/Game/__ExternalActors__/TestLevel/3/R6/1BZ573QQ33WKL8TP5P0B27
+/Game/__ExternalActors__/TestLevel/0/0H/M3E95DPM20OF8P26HON3N5
+/Game/__ExternalActors__/TestLevel/7/PE/MSSYQS2628FGQ8G4V4XMKU
+/Game/__ExternalActors__/TestLevel/9/0J/F832P6KBANG2KDS6HTS9E9
+/Game/__ExternalActors__/TestLevel/D/0K/BLNYI45Z34ZK7XIFH08BEN
+/Game/__ExternalActors__/TestLevel/B/3O/2OM742N13XO1LU3MKLECNM
+/Game/__ExternalActors__/TestLevel/0/IF/RILI4K23XHWX8CLI3NYG8C
+/Game/__ExternalActors__/TestLevel/E/Q4/EFYV8344BLVD450JJFFKEG
+/Game/__ExternalActors__/TestLevel/B/K8/BEK6IU3ULPCDTJXB2CJW4S
+[2023.10.18-11.00.40:892][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.18-11.00.40:904][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.10.18-11.00.40:907][526]LogSavePackage: Moving output files for package: /Game/TestLevel
+[2023.10.18-11.00.40:907][526]LogSavePackage: Moving '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Saved/TestLevelE1894C4047AB297183D73C979A29DB12.tmp' to '../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/TestLevel.umap'
+[2023.10.18-11.00.41:010][526]LogFileHelpers: Saving map 'TestLevel' took 1.307
+[2023.10.18-11.00.41:010][526]Cmd: MAP LOAD FILE="../../../../../GitDesktop/purgatorio/Purgatorio_Game/Content/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.18-11.00.41:010][526]LightingResults: New page: Lighting Build
+[2023.10.18-11.00.41:010][526]LoadErrors: New page: Loading map: TestLevel.umap
+[2023.10.18-11.00.41:082][526]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.18-11.00.41:082][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.18-11.00.41:085][526]LogContentBundle: [Container: TestLevel] Deleting container.
+[2023.10.18-11.00.41:086][526]MapCheck: New page: Map Check
+[2023.10.18-11.00.41:086][526]LightingResults: New page: Lighting Build
+[2023.10.18-11.00.41:892][526]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.10.18-11.00.41:892][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.18-11.00.41:910][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.10.18-11.00.41:916][526]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2023.10.18-11.00.41:916][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.18-11.00.41:917][526]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.18-11.00.41:917][526]LogWorldPartition: ULevel::OnLevelLoaded(TestLevel)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.18-11.00.41:917][526]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.18-11.00.41:917][526]LogWorldPartition: UWorldPartition::Initialize(Asset=TestLevel, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.18-11.00.42:106][526]LogContentBundle: [Container: TestLevel] Creating new contrainer.
+[2023.10.18-11.00.42:106][526]LogWorldPartition: Display: WorldPartition initialize took 189 ms (total: 384 ms)
+[2023.10.18-11.00.42:550][526]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.18-11.00.42:695][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.10.18-11.00.42:705][526]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.18-11.00.42:706][526]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.707ms to complete.
+[2023.10.18-11.00.42:706][526]LogFileHelpers: Loading map 'TestLevel' took 1.697
+[2023.10.18-11.00.42:725][526]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TestLevel.TestLevel:PersistentLevel.StaticMeshActor_UAID_744CA1D6730ECEB301_1086498439
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2023.10.18-11.00.42:725][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/TestLevel_HLOD0_Instancing.TestLevel_HLOD0_Instancing
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/TestLevel.TestLevel:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/TestLevel.TestLevel:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/TestLevel.TestLevel:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/TestLevel.TestLevel:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/TestLevel.TestLevel:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/TestLevel.TestLevel:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/TestLevel.TestLevel:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/TestLevel.TestLevel:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/TestLevel.TestLevel:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/TestLevel.TestLevel:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/TestLevel.TestLevel:PersistentLevel.WorldDataLayers
+[2023.10.18-11.00.42:726][526]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestLevel.TestLevel
+[2023.10.18-11.00.42:913][526]LogShaderCompilers: Display: ================================================
+[2023.10.18-11.00.42:913][526]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.18-11.00.42:913][526]LogShaderCompilers: Display: Total job queries 101, among them cache hits 12 (11.88%)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Tracking 89 distinct input hashes that result in 73 distinct outputs (82.02%)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: RAM used: 0.80 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.10%
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Shaders Compiled: 89
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Jobs assigned 89, completed 89 (100.00%)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Average time worker was idle: 40.30 s
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Time job spent in pending queue: average 2.19 s, longest 10.59 s
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Job execution time: average 5.27 s, max 12.27 s
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Job life time (pending + execution): average 7.46 s, max 12.32
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.23 s
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Jobs were issued in 50 batches (only local compilation was used), average 1.78 jobs/batch
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Average processing rate: 5.48 jobs/sec
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Total thread time: 104.79 s
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Total thread preprocess time: 4.43 s
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Percentage time preprocessing: 4.23%
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Effective parallelization: 6.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 2.10 sec, max 2.10 sec, min 2.10 sec)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.95 sec, max 1.95 sec, min 1.95 sec)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.91 sec, max 1.91 sec, min 1.91 sec)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.73 sec, max 2.31 sec, min 1.27 sec)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 28.00% of total time (compiled   17 times, average 1.73 sec, max 2.31 sec, min 1.27 sec)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.19% of total time (compiled    9 times, average 1.19 sec, max 1.44 sec, min 0.83 sec)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.01% of total time (compiled    9 times, average 1.05 sec, max 1.23 sec, min 0.80 sec)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.22% of total time (compiled    7 times, average 0.93 sec, max 1.14 sec, min 0.73 sec)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 3.75% of total time (compiled    7 times, average 0.56 sec, max 0.64 sec, min 0.44 sec)
+[2023.10.18-11.00.42:914][526]LogShaderCompilers: Display: ================================================
+[2023.10.18-11.10.31:370][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.10.18-11.10.31:372][448]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestLevel' took 0.010

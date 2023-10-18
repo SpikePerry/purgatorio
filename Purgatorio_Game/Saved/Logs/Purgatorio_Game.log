@@ -1335,3 +1335,40 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.18-10.47.56:412][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
 [2023.10.18-10.47.59:771][165]LogSlate: Took 0.012693 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.10.18-10.49.33:296][972]LogDerivedDataCache: C:/Users/jhall/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.116 and deleted 0 files with total size 0 MiB. Scanned 2543 files in 2530 folders with total size 96 MiB.
+[2023.10.18-10.51.30:259][885]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.18-10.51.33:093][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.10.18-10.51.33:093][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.10.18-10.51.33:095][205]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_744CA1D6730ECEB301_1086498439
+[2023.10.18-10.51.33:098][205]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_744CA1D6730ECEB301_1086498439
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: ================================================
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Total job queries 87, among them cache hits 10 (11.49%)
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Tracking 74 distinct input hashes that result in 67 distinct outputs (90.54%)
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: RAM used: 0.71 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Shaders Compiled: 74
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Jobs assigned 77, completed 74 (96.10%)
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Average time worker was idle: 28.40 s
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Time job spent in pending queue: average 2.45 s, longest 10.59 s
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Job execution time: average 6.08 s, max 12.27 s
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Job life time (pending + execution): average 8.63 s, max 12.32
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.27 s
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Jobs were issued in 38 batches (only local compilation was used), average 2.03 jobs/batch
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Average processing rate: 5.58 jobs/sec
+[2023.10.18-10.51.33:871][250]LogShaderCompilers: Display: Total thread time: 90.77 s
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display: Total thread preprocess time: 3.69 s
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display: Percentage time preprocessing: 4.07%
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display: Effective parallelization: 6.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 2.10 sec, max 2.10 sec, min 2.10 sec)
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                                   FCloudRenderViewPS010false (compiled    1 times, average 1.95 sec, max 1.95 sec, min 1.95 sec)
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 1.91 sec, max 1.91 sec, min 1.91 sec)
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 1.73 sec, max 1.73 sec, min 1.73 sec)
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 1.73 sec, max 2.31 sec, min 1.27 sec)
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 32.32% of total time (compiled   17 times, average 1.73 sec, max 2.31 sec, min 1.27 sec)
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.88% of total time (compiled    5 times, average 1.25 sec, max 1.44 sec, min 1.12 sec)
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.82% of total time (compiled    5 times, average 1.06 sec, max 1.10 sec, min 1.00 sec)
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.16% of total time (compiled    3 times, average 0.95 sec, max 0.98 sec, min 0.94 sec)
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 2.37% of total time (compiled    4 times, average 0.54 sec, max 0.59 sec, min 0.44 sec)
+[2023.10.18-10.51.33:872][250]LogShaderCompilers: Display: ================================================

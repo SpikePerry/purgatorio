@@ -1108,3 +1108,121 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.10.18-11.42.58:362][125]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cone.Cone
 [2023.10.18-11.42.58:363][125]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389D0B301_2024283792
 [2023.10.18-11.42.58:364][125]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cone.Cone as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389D0B301_2024283792
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: ================================================
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Total job queries 3651, among them cache hits 5 (0.14%)
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Tracking 3636 distinct input hashes that result in 2603 distinct outputs (71.59%)
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: RAM used: 25.26 MB (0.02 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.77%
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Shaders Compiled: 3636
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Jobs assigned 3644, completed 3636 (99.78%)
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Average time worker was idle: 5.54 s
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Time job spent in pending queue: average 102.99 s, longest 217.40 s
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Job execution time: average 4.75 s, max 17.30 s
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Job life time (pending + execution): average 107.97 s, max 218.71
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 228.94 s
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Jobs were issued in 420 batches (only local compilation was used), average 8.68 jobs/batch
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Average processing rate: 15.88 jobs/sec
+[2023.10.18-11.45.23:564][677]LogShaderCompilers: Display: Total thread time: 1746.30 s
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display: Total thread preprocess time: 96.08 s
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display: Percentage time preprocessing: 5.50%
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display: Effective parallelization: 7.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.42 sec, max 5.29 sec, min 3.18 sec)
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.92 sec, max 6.71 sec, min 1.59 sec)
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.66 sec, max 2.80 sec, min 0.99 sec)
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 1.43 sec, max 2.08 sec, min 1.20 sec)
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled    6 times, average 1.24 sec, max 2.21 sec, min 0.24 sec)
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.24% of total time (compiled  150 times, average 1.43 sec, max 2.08 sec, min 1.20 sec)
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.06% of total time (compiled  128 times, average 0.55 sec, max 0.79 sec, min 0.34 sec)
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.89% of total time (compiled  128 times, average 0.53 sec, max 0.65 sec, min 0.42 sec)
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.79% of total time (compiled   96 times, average 0.69 sec, max 0.97 sec, min 0.30 sec)
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.65% of total time (compiled  128 times, average 0.50 sec, max 0.62 sec, min 0.39 sec)
+[2023.10.18-11.45.23:565][677]LogShaderCompilers: Display: ================================================
+[2023.10.18-11.45.32:421][700]Cmd: DELETE
+[2023.10.18-11.45.32:421][700]Cmd: ACTOR DELETE
+[2023.10.18-11.45.32:421][700]LogEditorActor: Cannot delete actor Landscape /Temp/Untitled_1.Untitled_1:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703: Landscape can't be deleted because it still has 64 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2023.10.18-11.45.32:433][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.10.18-11.45.32:435][700]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2023.10.18-11.45.38:671][115]Cmd: DELETE
+[2023.10.18-11.45.38:671][115]Cmd: ACTOR DELETE
+[2023.10.18-11.45.38:672][115]LogEditorActor: Cannot delete actor Landscape /Temp/Untitled_1.Untitled_1:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703: Landscape can't be deleted because it still has 64 LandscapeStreamingProxies and 0 LandscapeSplineActors
+[2023.10.18-11.45.38:681][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.10.18-11.45.38:682][115]LogEditorActor: Deleted 0 Actors (0.010 secs)
+[2023.10.18-11.45.48:657][990]Cmd: DELETE
+[2023.10.18-11.45.48:657][990]Cmd: ACTOR DELETE
+[2023.10.18-11.45.48:659][990]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.45.48:680][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.10.18-11.45.48:682][990]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2023.10.18-11.45.53:682][239]Cmd: DELETE
+[2023.10.18-11.45.53:682][239]Cmd: ACTOR DELETE
+[2023.10.18-11.45.53:684][239]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.45.53:706][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.10.18-11.45.53:707][239]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2023.10.18-11.46.09:577][ 31]Cmd: DELETE
+[2023.10.18-11.46.09:577][ 31]Cmd: ACTOR DELETE
+[2023.10.18-11.46.09:579][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:593][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:606][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:619][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:631][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:643][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:655][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:666][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:679][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:690][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:700][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:710][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:721][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:730][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:740][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:749][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:758][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:767][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:775][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:784][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:792][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:800][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:808][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:815][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:822][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:830][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:837][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:843][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:850][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:856][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:862][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:868][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:873][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:878][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:884][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:889][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:893][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:898][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:902][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:907][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:911][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:915][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:919][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:923][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:927][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:931][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:934][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:938][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:941][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:945][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:948][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:951][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:954][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:957][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:960][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:963][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:966][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:968][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:970][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:973][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:975][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:978][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2023.10.18-11.46.09:988][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.10.18-11.46.09:990][ 31]LogEditorActor: Deleted 62 Actors (0.414 secs)

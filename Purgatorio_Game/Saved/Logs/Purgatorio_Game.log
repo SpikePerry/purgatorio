@@ -1226,3 +1226,45 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.10.18-11.46.09:978][ 31]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
 [2023.10.18-11.46.09:988][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
 [2023.10.18-11.46.09:990][ 31]LogEditorActor: Deleted 62 Actors (0.414 secs)
+[2023.10.18-11.48.27:708][611]LogToolMenus: Warning: Menu item not found: 'OpenMarketplace' for insert: 'ContentBrowser'
+[2023.10.18-11.48.32:742][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.10.18-11.48.32:742][171]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2023.10.18-11.48.32:743][171]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389D1B301_1284921969
+[2023.10.18-11.48.32:744][171]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389D1B301_1284921969
+[2023.10.18-11.48.41:361][757]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.18-11.49.39:197][701]LogShaderCompilers: Display: ================================================
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Total job queries 3655, among them cache hits 5 (0.14%)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Tracking 3647 distinct input hashes that result in 2605 distinct outputs (71.43%)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: RAM used: 25.33 MB (0.02 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.77%
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Shaders Compiled: 3647
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Jobs assigned 3650, completed 3647 (99.92%)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Average time worker was idle: 7.90 s
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Time job spent in pending queue: average 102.83 s, longest 217.40 s
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Job execution time: average 4.73 s, max 17.30 s
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Job life time (pending + execution): average 107.65 s, max 218.71
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 230.31 s
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Jobs were issued in 426 batches (only local compilation was used), average 8.57 jobs/batch
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Average processing rate: 15.84 jobs/sec
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Total thread time: 1752.01 s
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Total thread preprocess time: 96.42 s
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Percentage time preprocessing: 5.50%
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Effective parallelization: 7.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.42 sec, max 5.29 sec, min 3.18 sec)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.92 sec, max 6.71 sec, min 1.59 sec)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.66 sec, max 2.80 sec, min 0.99 sec)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 1.43 sec, max 2.08 sec, min 1.20 sec)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled    6 times, average 1.24 sec, max 2.21 sec, min 0.24 sec)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display:                                             FDeferredLightPS - 12.20% of total time (compiled  150 times, average 1.43 sec, max 2.08 sec, min 1.20 sec)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.04% of total time (compiled  128 times, average 0.55 sec, max 0.79 sec, min 0.34 sec)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.87% of total time (compiled  128 times, average 0.53 sec, max 0.65 sec, min 0.42 sec)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.78% of total time (compiled   96 times, average 0.69 sec, max 0.97 sec, min 0.30 sec)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.64% of total time (compiled  128 times, average 0.50 sec, max 0.62 sec, min 0.39 sec)
+[2023.10.18-11.49.39:198][701]LogShaderCompilers: Display: ================================================
+[2023.10.18-11.49.47:500][230]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.18-11.50.39:291][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.10.18-11.50.39:295][886]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.014
+[2023.10.18-11.51.47:610][474]LogSlate: Window 'Color Picker' being destroyed

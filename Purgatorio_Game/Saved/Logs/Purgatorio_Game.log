@@ -1439,3 +1439,33 @@ Script Stack (0 frames) :
 [2023.10.25-11.37.16:491][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
 [2023.10.25-11.37.50:974][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2023.10.25-11.38.05:553][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.10.25-11.46.33:986][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-11.46.34:042][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.10.25-11.46.34:050][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.10.25-11.46.34:058][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.10.25-11.46.34:656][572]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/0/2F/HPPFV7I1INTHY77IVS5FFT
+[2023.10.25-11.46.34:657][572]LogSavePackage: Moving 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Saved/HPPFV7I1INTHY77IVS5FFT5F9C781544EFB4A8541453A1C9F3D289.tmp' to 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Content/__ExternalActors__/Level1/0/2F/HPPFV7I1INTHY77IVS5FFT.uasset'
+[2023.10.25-11.46.34:663][572]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/9/GR/66HUZS8J38W0FFLN4JEGKU
+[2023.10.25-11.46.34:664][572]LogSavePackage: Moving 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Saved/66HUZS8J38W0FFLN4JEGKUE9E7F252440F7EE62D5412A7C1DB5B3B.tmp' to 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Content/__ExternalActors__/Level1/9/GR/66HUZS8J38W0FFLN4JEGKU.uasset'
+[2023.10.25-11.46.34:669][572]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/5/NK/KFQE1CDVN835X9O95H7NMW
+[2023.10.25-11.46.34:670][572]LogSavePackage: Moving 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Saved/KFQE1CDVN835X9O95H7NMW63CCBCB3496736F98DDCCA8C727BE5F7.tmp' to 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Content/__ExternalActors__/Level1/5/NK/KFQE1CDVN835X9O95H7NMW.uasset'
+[2023.10.25-11.46.34:675][572]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/3/3I/O6OP1KBRKFR7DQSIQCD2W2
+[2023.10.25-11.46.34:676][572]LogSavePackage: Moving 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Saved/O6OP1KBRKFR7DQSIQCD2W240C1906148F9F506F1DCACA0AD2C6B4A.tmp' to 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Content/__ExternalActors__/Level1/3/3I/O6OP1KBRKFR7DQSIQCD2W2.uasset'
+[2023.10.25-11.46.34:681][572]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/6/25/1PBEDI7C81H6LHDB6839I1
+[2023.10.25-11.46.34:682][572]LogSavePackage: Moving 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Saved/1PBEDI7C81H6LHDB6839I16B9FCDA5478341F2255A209B4AC14C69.tmp' to 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Content/__ExternalActors__/Level1/6/25/1PBEDI7C81H6LHDB6839I1.uasset'
+[2023.10.25-11.46.34:687][572]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/A/EC/YOEWI5PGRNKBBL7JSHTIYW
+[2023.10.25-11.46.34:688][572]LogSavePackage: Moving 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Saved/YOEWI5PGRNKBBL7JSHTIYW68F993F94D72D8E318B086BC93F3D380.tmp' to 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Content/__ExternalActors__/Level1/A/EC/YOEWI5PGRNKBBL7JSHTIYW.uasset'
+[2023.10.25-11.46.34:692][572]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level1/4/1Y/HLILDO6BFLZ7XMW9N663PV
+[2023.10.25-11.46.34:693][572]LogSavePackage: Moving 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Saved/HLILDO6BFLZ7XMW9N663PV687244ED4F08317C734DC2897B5AD2EA.tmp' to 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Content/__ExternalActors__/Level1/4/1Y/HLILDO6BFLZ7XMW9N663PV.uasset'
+[2023.10.25-11.46.34:698][572]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Level1/A/V8/47QFV6VK45MAGMNESUVEK9
+[2023.10.25-11.46.34:698][572]LogSavePackage: Moving 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Saved/47QFV6VK45MAGMNESUVEK94EEF73164696B7191A3638A49B14694D.tmp' to 'E:/Year 2/Teamwork Practices/purgatorio/Purgatorio_Game/Content/__ExternalObjects__/Level1/A/V8/47QFV6VK45MAGMNESUVEK9.uasset'
+[2023.10.25-11.46.34:802][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 815 ms (total: 1.17 sec)
+[2023.10.25-11.46.34:807][572]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.25-11.46.34:807][572]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Level1.Level1:PersistentLevel.ActorFolder_UID_253E6538-4DEC35C5-6726D0B5-75B63B39
+[2023.10.25-11.46.34:807][572]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389FEB501_1656547999
+[2023.10.25-11.46.34:807][572]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C38900B601_1407698358
+[2023.10.25-11.46.34:807][572]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389FFB501_1935208180
+[2023.10.25-11.46.34:807][572]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389FFB501_1827104179
+[2023.10.25-11.46.34:807][572]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389FFB501_1672502177
+[2023.10.25-11.46.34:807][572]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C389FFB501_1603978176
+[2023.10.25-11.46.34:807][572]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level1.Level1:PersistentLevel.StaticMeshActor_UAID_A85E45E3C38900B601_1155013357

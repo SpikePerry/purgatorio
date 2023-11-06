@@ -1184,3 +1184,6 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.11.06-15.05.23:913][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
 [2023.11.06-15.05.24:368][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 519 ms
 [2023.11.06-15.05.46:805][328]LogDerivedDataCache: C:/Users/sp22aby.HERTS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.092 and deleted 0 files with total size 0 MiB. Scanned 2904 files in 2888 folders with total size 50 MiB.
+[2023.11.06-15.06.14:329][576]LogWorldPartition: Actor /Game/Level1.Level1:PersistentLevel.PlayerStart_UAID_A85E45E3C38931B801_1730179088 is unreachable without properly detaching object /Game/__ExternalActors__/Level1/B/MQ/4QA6IVOFCU3GI4G7XGS7C2.PackageMetaData in its package
+[2023.11.06-15.06.14:330][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.06-15.06.14:341][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
